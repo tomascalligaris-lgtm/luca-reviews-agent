@@ -32,7 +32,7 @@ jobs:
 
       - name: Run review agent
         env:
-          ANTHROPIC_API_KEY: ${{ secrets.ANTHROPIC_API_KEY }}
+          GEMINI_API_KEY: ${{ secrets.GEMINI_API_KEY }}
           IOS_ISSUER_ID: ${{ secrets.IOS_ISSUER_ID }}
           IOS_KEY_ID: ${{ secrets.IOS_KEY_ID }}
           IOS_APP_ID: ${{ secrets.IOS_APP_ID }}

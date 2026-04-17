@@ -2,7 +2,7 @@
 Daily Review Response Agent for Luca Money
 ============================================
 Reads reviews from App Store Connect (iOS) and Android (cache/data.json),
-generates personalized responses using Claude, and emails a daily report.
+generates personalized responses using Gemini, and emails a daily report.
 
 Usage:
     python agent.py
@@ -20,7 +20,8 @@ import requests
 from pathlib import Path
 from email.mime.multipart import MIMEMultipart
 from email.mime.text import MIMEText
-from anthropic import Anthropic
+from google import genai
+from google.genai import types
 
 # ─── CONFIG (loaded from environment) ────────────────────────────────────────
 
@@ -36,11 +37,25 @@ GMAIL_USER     = os.environ["GMAIL_USER"]
 GMAIL_APP_PASS = os.environ["GMAIL_APP_PASS"]
 REPORT_EMAIL   = os.environ["REPORT_EMAIL"]
 
-ANTHROPIC_API_KEY = os.environ["ANTHROPIC_API_KEY"]
+GEMINI_API_KEY = os.environ["GEMINI_API_KEY"]
+GEMINI_MODEL   = os.environ.get("GEMINI_MODEL", "gemini-2.5-flash")
 
 REPORTS_DIR   = Path(__file__).parent / "reports"
 FEEDBACK_FILE = Path(__file__).parent / "feedback.json"
 REPORTS_DIR.mkdir(exist_ok=True)
+
+RESPONSE_SCHEMA = {
+    "type": "array",
+    "items": {
+        "type": "object",
+        "properties": {
+            "id": {"type": "string"},
+            "platform": {"type": "string", "enum": ["ios", "android"]},
+            "response": {"type": "string"},
+        },
+        "required": ["id", "platform", "response"],
+    },
+}
 
 
 def load_feedback_examples() -> str:
@@ -198,23 +213,18 @@ def fetch_android_reviews():
     return reviews
 
 
-# ─── RESPONSE GENERATION (Claude Managed Agent) ──────────────────────────────
+# ─── RESPONSE GENERATION (Gemini) ────────────────────────────────────────────
 
-def generate_responses_with_agent(reviews: list) -> list:
-    """Use a Claude Managed Agent to generate personalized responses for each review."""
+def generate_responses_with_gemini(reviews: list) -> list:
+    """Use Gemini to generate personalized responses for each review."""
     if not reviews:
         return []
 
-    print("\n🤖 Starting Claude agent to generate responses...")
-    client = Anthropic(api_key=ANTHROPIC_API_KEY)
-
-    # Create (or reuse) the agent
+    print("\n🤖 Starting Gemini to generate responses...")
+    client = genai.Client(api_key=GEMINI_API_KEY)
     feedback_examples = load_feedback_examples()
 
-    agent = client.beta.agents.create(
-        name="Luca Money Review Responder",
-        model="claude-sonnet-4-6",
-        system="""You are the community manager for Luca Money, a fintech savings app in Latin America.
+    system_instruction = """You are the community manager for Luca Money, a fintech savings app in Latin America.
 Your job is to write warm, personalized, professional responses to App Store and Google Play reviews.
 
 Rules:
@@ -226,16 +236,8 @@ Rules:
 - Never copy-paste the same response for multiple reviews
 - Do NOT use the "—" symbol anywhere in the response
 - Sign off with: "Equipo Luca Money" (if Spanish) or "Luca Money Team" (if English)
-""" + feedback_examples,
-        tools=[{"type": "agent_toolset_20260401"}],
-    )
+""" + feedback_examples
 
-    session = client.beta.sessions.create(
-        agent=agent.id,
-        title=f"Daily reviews {datetime.date.today()}",
-    )
-
-    # Build the task prompt with all reviews
     reviews_text = json.dumps(reviews, ensure_ascii=False, indent=2)
     task = f"""Here are today's app reviews that need personalized responses.
 
@@ -249,39 +251,23 @@ Reviews:
 
 Return ONLY the JSON array, no extra text."""
 
-    response_text = ""
-    print("   Agent is working", end="", flush=True)
-
-    with client.beta.sessions.events.stream(session.id) as stream:
-        client.beta.sessions.events.send(
-            session.id,
-            events=[{
-                "type": "user.message",
-                "content": [{"type": "text", "text": task}]
-            }]
-        )
-        for event in stream:
-            if event.type == "agent.message":
-                for block in event.content:
-                    if hasattr(block, "text"):
-                        response_text += block.text
-            elif event.type == "agent.tool_use":
-                print(".", end="", flush=True)
-            elif event.type == "session.status_idle":
-                print(" ✓")
-                break
-
-    # Parse agent's JSON response
     try:
-        # Strip markdown fences if present
-        clean = response_text.strip()
-        if clean.startswith("```"):
-            clean = clean.split("```")[1]
-            if clean.startswith("json"):
-                clean = clean[4:]
-        responses = json.loads(clean.strip())
-    except json.JSONDecodeError:
-        print("   ⚠️  Could not parse agent JSON response, using raw text")
+        print("   Gemini is working", end="", flush=True)
+        response = client.models.generate_content(
+            model=GEMINI_MODEL,
+            contents=task,
+            config=types.GenerateContentConfig(
+                system_instruction=system_instruction,
+                temperature=0.4,
+                max_output_tokens=8192,
+                response_mime_type="application/json",
+                response_json_schema=RESPONSE_SCHEMA,
+            ),
+        )
+        print(" ✓")
+        responses = response.parsed if response.parsed is not None else json.loads(response.text)
+    except Exception as exc:
+        print(f" ✗\n   ⚠️  Gemini generation failed: {exc}")
         responses = []
 
     return responses
@@ -481,8 +467,8 @@ def main():
         _send_no_reviews_email()
         return
 
-    # 2. Generate responses with Claude agent
-    responses = generate_responses_with_agent(all_reviews)
+    # 2. Generate responses with Gemini
+    responses = generate_responses_with_gemini(all_reviews)
 
     # 3. Build + save report
     report = build_report(all_reviews, responses)

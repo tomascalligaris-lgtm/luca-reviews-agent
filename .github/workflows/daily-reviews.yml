@@ -9,6 +9,8 @@ on:
 jobs:
   run-agent:
     runs-on: ubuntu-latest
+    permissions:
+      contents: write  # needed so the job can commit today's report back to the repo
 
     steps:
       - name: Checkout code
@@ -43,3 +45,16 @@ jobs:
           GMAIL_APP_PASS: ${{ secrets.GMAIL_APP_PASS }}
           REPORT_EMAIL: ${{ secrets.REPORT_EMAIL }}
         run: python agent.py
+
+      - name: Commit today's report back to repo
+        run: |
+          git config user.name "github-actions[bot]"
+          git config user.email "github-actions[bot]@users.noreply.github.com"
+          # -f because reports/ is in .gitignore for local-run safety
+          git add -f reports/
+          if git diff --staged --quiet; then
+            echo "No new report to commit (no-reviews day, or fetch failure)."
+          else
+            git commit -m "Daily report $(date -u +%Y-%m-%d)"
+            git push
+          fi

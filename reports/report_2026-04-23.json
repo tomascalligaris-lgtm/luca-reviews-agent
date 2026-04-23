@@ -1,0 +1,57 @@
+{
+  "date": "2026-04-23",
+  "generated_at": "2026-04-23T18:39:19.840678",
+  "total_reviews": 4,
+  "ios_count": 0,
+  "android_count": 4,
+  "items": [
+    {
+      "platform": "android",
+      "id": "70020c2e-1d65-45e8-bdfb-0e2b7167b407",
+      "author": "albert salcedo ascanio",
+      "rating": 4,
+      "title": "",
+      "body": "la interfaz es hermosa solo esperando que habiliten más opciones aver que tal funciona pero del resto bien",
+      "date": "1776701767",
+      "territory": "es",
+      "proposed_response": "¡Hola Albert! Nos encanta que te guste la interfaz de la app. Estamos trabajando constantemente para habilitar más opciones y mejorar tu experiencia. ¡Gracias por tu paciencia y por tu reseña! Equipo Luca Money",
+      "approved": false
+    },
+    {
+      "platform": "android",
+      "id": "f7525375-7f6c-498c-be7e-b441cc591a2f",
+      "author": "Reinaldo Gonzalez",
+      "rating": 5,
+      "title": "",
+      "body": "Excelente producto para resguardar tu dinero y además genera intereses mientras ahorras en USDC sin que se devalue tu 🫰🤑",
+      "date": "1776717816",
+      "territory": "es",
+      "proposed_response": "¡Hola Reinaldo! Nos alegra mucho saber que encuentras nuestro producto excelente para resguardar tu dinero y generar intereses en USDC. Es genial que aprecies cómo te ayudamos a proteger tu ahorro. ¡Gracias por tu confianza! Equipo Luca Money",
+      "approved": false
+    },
+    {
+      "platform": "android",
+      "id": "4fe0a1f2-b61f-4908-bb5e-89365407f906",
+      "author": "Jose Guerra",
+      "rating": 5,
+      "title": "",
+      "body": "excelente la recomiendo",
+      "date": "1776694823",
+      "territory": "es",
+      "proposed_response": "¡Hola Jose! Muchas gracias por tu recomendación. Nos alegra mucho saber que disfrutas de Luca Money. Equipo Luca Money",
+      "approved": false
+    },
+    {
+      "platform": "android",
+      "id": "08083b56-48bf-4f28-90ec-4d0fb7da4645",
+      "author": "Dj Jean Rivero",
+      "rating": 5,
+      "title": "",
+      "body": "Gracias por aceptarme",
+      "date": "1776638754",
+      "territory": "es",
+      "proposed_response": "¡Hola Dj Jean! Nos alegra mucho darte la bienvenida a la comunidad de Luca Money. ¡Gracias por tu reseña y por unirte a nosotros! Equipo Luca Money",
+      "approved": false
+    }
+  ]
+}

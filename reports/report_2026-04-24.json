@@ -1,0 +1,21 @@
+{
+  "date": "2026-04-24",
+  "generated_at": "2026-04-24T15:54:06.214088",
+  "total_reviews": 1,
+  "ios_count": 0,
+  "android_count": 1,
+  "items": [
+    {
+      "platform": "android",
+      "id": "560aad41-7d47-4470-b85d-0c98fdf2bb5e",
+      "author": "Diniovin AMP",
+      "rating": 5,
+      "title": "",
+      "body": "excelente",
+      "date": "1777043821",
+      "territory": "es",
+      "proposed_response": "¡Muchas gracias por tu excelente comentario! Nos alegra mucho saber que disfrutas de Luca Money. Tu apoyo significa mucho para nosotros. Equipo Luca Money",
+      "approved": false
+    }
+  ]
+}

@@ -1,0 +1,57 @@
+{
+  "date": "2026-04-25",
+  "generated_at": "2026-04-25T14:30:07.206443",
+  "total_reviews": 4,
+  "ios_count": 0,
+  "android_count": 4,
+  "items": [
+    {
+      "platform": "android",
+      "id": "60cbcc6e-fe33-4dea-a881-4d96e2f3bfcc",
+      "author": "Wilmer Enrique Guevara Lubo",
+      "rating": 5,
+      "title": "",
+      "body": "muy amigable para hacer depósito y retiro trabajo directamente a mi exchase y cuenta en Binance y sobre todo paga Intereses todos los días",
+      "date": "1777074066",
+      "territory": "es",
+      "proposed_response": "¡Hola Wilmer! Nos alegra mucho saber que encuentras nuestra app tan amigable para tus depósitos y retiros, y que disfrutas de los intereses diarios. Nos encanta que la uses con tus cuentas de Binance. ¡Gracias por tu excelente reseña! Equipo Luca Money",
+      "approved": false
+    },
+    {
+      "platform": "android",
+      "id": "c0d1c0dc-80a4-45df-b8ac-4228c961e069",
+      "author": "Jose Loyo",
+      "rating": 5,
+      "title": "",
+      "body": "excelente app",
+      "date": "1777071454",
+      "territory": "es",
+      "proposed_response": "¡Hola Jose! Muchas gracias por tu comentario. Nos alegra mucho que consideres nuestra app excelente. Equipo Luca Money",
+      "approved": false
+    },
+    {
+      "platform": "android",
+      "id": "150db4f9-f086-4b5d-b894-ff8df5e5dee6",
+      "author": "rc_julin_lens rc_julin_lens",
+      "rating": 5,
+      "title": "",
+      "body": "epetacular 🫵😎💡",
+      "date": "1777052712",
+      "territory": "es",
+      "proposed_response": "¡Hola! ¡Qué bueno que te parezca espectacular! Agradecemos mucho tu entusiasmo y tu calificación. Equipo Luca Money",
+      "approved": false
+    },
+    {
+      "platform": "android",
+      "id": "560aad41-7d47-4470-b85d-0c98fdf2bb5e",
+      "author": "Diniovin AMP",
+      "rating": 5,
+      "title": "",
+      "body": "excelente",
+      "date": "1777043821",
+      "territory": "es",
+      "proposed_response": "¡Hola Diniovin! Muchas gracias por tu comentario y por calificarnos tan bien. Nos alegra que encuentres la app excelente. Equipo Luca Money",
+      "approved": false
+    }
+  ]
+}

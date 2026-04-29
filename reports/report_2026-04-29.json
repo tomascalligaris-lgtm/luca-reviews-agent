@@ -1,0 +1,69 @@
+{
+  "date": "2026-04-29",
+  "generated_at": "2026-04-29T17:10:19.946423",
+  "total_reviews": 5,
+  "ios_count": 0,
+  "android_count": 5,
+  "items": [
+    {
+      "platform": "android",
+      "id": "542111f2-e183-4f57-830e-f1b04a876d11",
+      "author": "Jose Loyo",
+      "rating": 5,
+      "title": "",
+      "body": "muy buena exelente",
+      "date": "1777401129",
+      "territory": "es",
+      "proposed_response": "¡Muchas gracias por tus amables palabras! Nos alegra mucho saber que disfrutas de Luca Money y que nos consideras excelente. Equipo Luca Money",
+      "approved": false
+    },
+    {
+      "platform": "android",
+      "id": "8d322fc3-2e40-4c64-88f9-697e17074d70",
+      "author": "Josè Gregorio Rodriguez",
+      "rating": 5,
+      "title": "",
+      "body": "Muy buena, yo diría que en su modalidad es una de las mejores...",
+      "date": "1777393428",
+      "territory": "es",
+      "proposed_response": "Apreciamos mucho tu comentario, Josè Gregorio. Nos llena de orgullo saber que consideras a Luca Money una de las mejores en su modalidad. ¡Seguimos trabajando para mejorar! Equipo Luca Money",
+      "approved": false
+    },
+    {
+      "platform": "android",
+      "id": "60cbcc6e-fe33-4dea-a881-4d96e2f3bfcc",
+      "author": "Wilmer Enrique Guevara Lubo",
+      "rating": 5,
+      "title": "",
+      "body": "muy amigable para hacer depósito y retiro trabajo directamente a mi exchase y cuenta en Binance y sobre todo paga Intereses todos los días",
+      "date": "1777074066",
+      "territory": "es",
+      "proposed_response": "¡Qué excelente reseña, Wilmer! Nos encanta saber que encuentras la app amigable para depósitos y retiros, y que valoras la integración con Binance y los intereses diarios. ¡Gracias por tu confianza! Equipo Luca Money",
+      "approved": false
+    },
+    {
+      "platform": "android",
+      "id": "150db4f9-f086-4b5d-b894-ff8df5e5dee6",
+      "author": "rc_julin_lens rc_julin_lens",
+      "rating": 5,
+      "title": "",
+      "body": "epetacular 🫵😎💡",
+      "date": "1777052712",
+      "territory": "es",
+      "proposed_response": "¡Nos alegra mucho que pienses que somos 'espectacular'! Gracias por tu entusiasmo y por elegir Luca Money. Equipo Luca Money",
+      "approved": false
+    },
+    {
+      "platform": "android",
+      "id": "560aad41-7d47-4470-b85d-0c98fdf2bb5e",
+      "author": "Diniovin AMP",
+      "rating": 5,
+      "title": "",
+      "body": "excelente",
+      "date": "1777043821",
+      "territory": "es",
+      "proposed_response": "¡Muchas gracias por tu excelente calificación! Nos alegra mucho que estés contento con Luca Money. Equipo Luca Money",
+      "approved": false
+    }
+  ]
+}

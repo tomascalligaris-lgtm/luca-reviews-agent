@@ -1,0 +1,81 @@
+{
+  "date": "2026-05-01",
+  "generated_at": "2026-05-01T15:35:08.616123",
+  "total_reviews": 6,
+  "ios_count": 0,
+  "android_count": 6,
+  "items": [
+    {
+      "platform": "android",
+      "id": "efdc3a27-9499-4e9e-941c-2e162516046e",
+      "author": "Luis Vasquez",
+      "rating": 5,
+      "title": "",
+      "body": "una muy buena app recomendada",
+      "date": "1777596448",
+      "territory": "es",
+      "proposed_response": "Gracias por tu recomendación, Luis. Nos alegra mucho saber que disfrutas de la app y la encuentras muy buena. Equipo Luca Money",
+      "approved": false
+    },
+    {
+      "platform": "android",
+      "id": "69ec4eaa-58dd-4704-afe7-18bb59dce7d6",
+      "author": "Ronald Morao Quintero",
+      "rating": 5,
+      "title": "",
+      "body": "excelente aplicación muy buena",
+      "date": "1777595978",
+      "territory": "es",
+      "proposed_response": "¡Muchas gracias, Ronald! Nos llena de alegría que consideres nuestra aplicación excelente y muy buena. Equipo Luca Money",
+      "approved": false
+    },
+    {
+      "platform": "android",
+      "id": "542111f2-e183-4f57-830e-f1b04a876d11",
+      "author": "Jose Loyo",
+      "rating": 5,
+      "title": "",
+      "body": "muy buena exelente",
+      "date": "1777401129",
+      "territory": "es",
+      "proposed_response": "¡Gracias por tu comentario, Jose! Nos alegra mucho saber que encuentras la app muy buena y excelente. Equipo Luca Money",
+      "approved": false
+    },
+    {
+      "platform": "android",
+      "id": "8d322fc3-2e40-4c64-88f9-697e17074d70",
+      "author": "Josè Gregorio Rodriguez",
+      "rating": 5,
+      "title": "",
+      "body": "Muy buena, yo diría que en su modalidad es una de las mejores...",
+      "date": "1777393428",
+      "territory": "es",
+      "proposed_response": "¡Qué gran cumplido, José Gregorio! Nos entusiasma saber que consideras nuestra app una de las mejores en su modalidad. ¡Gracias por tu apoyo! Equipo Luca Money",
+      "approved": false
+    },
+    {
+      "platform": "android",
+      "id": "60cbcc6e-fe33-4dea-a881-4d96e2f3bfcc",
+      "author": "Wilmer Enrique Guevara Lubo",
+      "rating": 5,
+      "title": "",
+      "body": "muy amigable para hacer depósito y retiro trabajo directamente a mi exchase y cuenta en Binance y sobre todo paga Intereses todos los días",
+      "date": "1777074066",
+      "territory": "es",
+      "proposed_response": "¡Gracias, Wilmer, por tu detallado comentario! Nos alegra mucho que valores la facilidad para depósitos y retiros, y que disfrutes de los intereses diarios. Equipo Luca Money",
+      "approved": false
+    },
+    {
+      "platform": "android",
+      "id": "150db4f9-f086-4b5d-b894-ff8df5e5dee6",
+      "author": "rc_julin_lens rc_julin_lens",
+      "rating": 5,
+      "title": "",
+      "body": "epetacular 🫵😎💡",
+      "date": "1777052712",
+      "territory": "es",
+      "proposed_response": "¡Nos encanta que pienses que la app es espectacular! Agradecemos mucho tu entusiasmo y tu calificación, rc_julin_lens. Equipo Luca Money",
+      "approved": false
+    }
+  ]
+}

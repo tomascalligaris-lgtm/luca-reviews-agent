@@ -1,0 +1,69 @@
+{
+  "date": "2026-05-03",
+  "generated_at": "2026-05-03T14:38:43.887096",
+  "total_reviews": 5,
+  "ios_count": 1,
+  "android_count": 4,
+  "items": [
+    {
+      "platform": "ios",
+      "id": "00000192-9a99-fb03-433a-315a00000000",
+      "author": "Alefcripto",
+      "rating": 5,
+      "title": "Simple pero completa",
+      "body": "Cumple con ser una Wallet simple pero única que entiende al usuario común que busca auto custodia y poder pagar con USDC. De 10!",
+      "date": "2026-04-30T06:39:22-07:00",
+      "territory": "USA",
+      "proposed_response": "¡Muchas gracias por tu reseña! Nos alegra mucho saber que valoras la simplicidad de Luca, la autocustodia y la posibilidad de pagar con USDC. Estamos aquí para hacer tu experiencia financiera más fácil. Equipo Luca Money",
+      "approved": false
+    },
+    {
+      "platform": "android",
+      "id": "efdc3a27-9499-4e9e-941c-2e162516046e",
+      "author": "Luis Vasquez",
+      "rating": 5,
+      "title": "",
+      "body": "una muy buena app recomendada",
+      "date": "1777596448",
+      "territory": "es",
+      "proposed_response": "¡Gracias por tu recomendación! Nos hace muy felices saber que disfrutas de la app. Equipo Luca Money",
+      "approved": false
+    },
+    {
+      "platform": "android",
+      "id": "69ec4eaa-58dd-4704-afe7-18bb59dce7d6",
+      "author": "Ronald Morao Quintero",
+      "rating": 5,
+      "title": "",
+      "body": "excelente aplicación muy buena",
+      "date": "1777595978",
+      "territory": "es",
+      "proposed_response": "Apreciamos mucho tus amables palabras. Nos alegra saber que encuentras nuestra aplicación excelente y muy buena. Equipo Luca Money",
+      "approved": false
+    },
+    {
+      "platform": "android",
+      "id": "542111f2-e183-4f57-830e-f1b04a876d11",
+      "author": "Jose Loyo",
+      "rating": 5,
+      "title": "",
+      "body": "muy buena exelente",
+      "date": "1777401129",
+      "territory": "es",
+      "proposed_response": "¡Muchas gracias por tu excelente comentario! Nos motiva mucho saber que estás contento con Luca. Equipo Luca Money",
+      "approved": false
+    },
+    {
+      "platform": "android",
+      "id": "8d322fc3-2e40-4c64-88f9-697e17074d70",
+      "author": "Josè Gregorio Rodriguez",
+      "rating": 5,
+      "title": "",
+      "body": "Muy buena, yo diría que en su modalidad es una de las mejores...",
+      "date": "1777393428",
+      "territory": "es",
+      "proposed_response": "¡Qué gran cumplido, José! Nos llena de orgullo saber que consideras a Luca una de las mejores en su modalidad. Gracias por tu apoyo. Equipo Luca Money",
+      "approved": false
+    }
+  ]
+}

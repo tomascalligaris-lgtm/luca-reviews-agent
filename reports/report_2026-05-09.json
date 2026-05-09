@@ -1,0 +1,57 @@
+{
+  "date": "2026-05-09",
+  "generated_at": "2026-05-09T12:56:15.345595",
+  "total_reviews": 4,
+  "ios_count": 1,
+  "android_count": 3,
+  "items": [
+    {
+      "platform": "android",
+      "id": "f911a267-a097-4f57-b789-a410b69e30b1",
+      "author": "Rafael Cataldi",
+      "rating": 4,
+      "title": "",
+      "body": "por ahora no he tenido problemas es exelente",
+      "date": "1778175546",
+      "territory": "es",
+      "proposed_response": "¡Gracias, Rafael! Nos alegra mucho saber que tu experiencia ha sido excelente y sin problemas hasta ahora. Seguiremos trabajando para mantener esa calidad. Equipo Luca Money",
+      "approved": false
+    },
+    {
+      "platform": "ios",
+      "id": "00000192-9a99-fb03-433a-315a00000000",
+      "author": "Alefcripto",
+      "rating": 5,
+      "title": "Simple pero completa",
+      "body": "Cumple con ser una Wallet simple pero única que entiende al usuario común que busca auto custodia y poder pagar con USDC. De 10!",
+      "date": "2026-04-30T06:39:22-07:00",
+      "territory": "USA",
+      "proposed_response": "¡Muchas gracias por tu reseña! Nos alegra mucho saber que valoras la simplicidad de nuestra wallet y la posibilidad de autocustodia y pago con USDC. Buscamos justamente eso, entender al usuario. Equipo Luca Money",
+      "approved": false
+    },
+    {
+      "platform": "android",
+      "id": "bb52a08d-e158-4bc4-95b7-64436e67325a",
+      "author": "Fabián Duran",
+      "rating": 5,
+      "title": "",
+      "body": "buenísima",
+      "date": "1778082790",
+      "territory": "es",
+      "proposed_response": "¡Qué bueno leer esto, Fabián! Muchas gracias por tu comentario tan positivo. Nos motiva a seguir mejorando. Equipo Luca Money",
+      "approved": false
+    },
+    {
+      "platform": "android",
+      "id": "3b042882-5d05-4028-b2d3-6e3a4ec7c0bf",
+      "author": "Robert Lajara",
+      "rating": 5,
+      "title": "",
+      "body": "la verdad es que me gusto es muy fácil crear una cuenta bancaria con esto",
+      "date": "1777935700",
+      "territory": "es",
+      "proposed_response": "¡Gracias, Robert! Nos alegra mucho que te haya gustado la facilidad para crear una cuenta. Hacemos todo lo posible para que el proceso sea sencillo. Equipo Luca Money",
+      "approved": false
+    }
+  ]
+}

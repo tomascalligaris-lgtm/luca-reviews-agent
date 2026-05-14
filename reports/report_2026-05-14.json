@@ -1,0 +1,33 @@
+{
+  "date": "2026-05-14",
+  "generated_at": "2026-05-14T13:47:36.485619",
+  "total_reviews": 2,
+  "ios_count": 1,
+  "android_count": 1,
+  "items": [
+    {
+      "platform": "android",
+      "id": "f911a267-a097-4f57-b789-a410b69e30b1",
+      "author": "Rafael Cataldi",
+      "rating": 4,
+      "title": "",
+      "body": "por ahora no he tenido problemas es exelente",
+      "date": "1778175546",
+      "territory": "es",
+      "proposed_response": "¡Hola Rafael! Nos alegra mucho leer que no has tenido problemas y que consideras que la app es excelente. Agradecemos tu valoración y confianza en Luca Money. Equipo Luca Money",
+      "approved": false
+    },
+    {
+      "platform": "ios",
+      "id": "00000192-9a99-fb03-433a-315a00000000",
+      "author": "Alefcripto",
+      "rating": 5,
+      "title": "Simple pero completa",
+      "body": "Cumple con ser una Wallet simple pero única que entiende al usuario común que busca auto custodia y poder pagar con USDC. De 10!",
+      "date": "2026-04-30T06:39:22-07:00",
+      "territory": "USA",
+      "proposed_response": "¡Muchas gracias por tu excelente reseña, Alefcripto! Nos alegra mucho saber que valoras la simplicidad de nuestra wallet y la posibilidad de autocustodia y pagar con USDC. Nos esforzamos por entender las necesidades de nuestros usuarios. Equipo Luca Money",
+      "approved": false
+    }
+  ]
+}

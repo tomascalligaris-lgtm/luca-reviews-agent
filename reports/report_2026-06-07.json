@@ -1,0 +1,141 @@
+{
+  "date": "2026-06-07",
+  "generated_at": "2026-06-07T13:23:40.155410",
+  "total_reviews": 11,
+  "ios_count": 3,
+  "android_count": 8,
+  "items": [
+    {
+      "platform": "ios",
+      "id": "00000192-9a99-fb03-496c-f0d300000000",
+      "author": "Joséjfc",
+      "rating": 1,
+      "title": "Decepción",
+      "body": "Hace 2 días que tengo error en verificar mis datos para tener mi cuenta en usd, el soporte a veces no responde por ende se cierra el chat, y cuando responden no me solucionan el problema, muy flojo.",
+      "date": "2026-05-28T12:26:07-07:00",
+      "territory": "ARG",
+      "proposed_response": "Lamentamos mucho los inconvenientes que has tenido con la verificación de tus datos y la comunicación con soporte. Entendemos tu frustración y queremos ayudarte a resolverlo. Por favor, escríbenos a mariano@lucamoney.com para que podamos asistirte directamente. Equipo Luca Money",
+      "approved": false
+    },
+    {
+      "platform": "android",
+      "id": "36666cde-160a-43b6-b70e-ea4cbf2a59d8",
+      "author": "YOEL CHIRGÜITA",
+      "rating": 1,
+      "title": "",
+      "body": "Todavía en espera para nuestro país Venezuela para cuando sea \"oficial\" le estaré dando mi calificación definitiva por los momentos 1 estrella ⭐",
+      "date": "1780637254",
+      "territory": "es",
+      "proposed_response": "Lamentamos mucho que aún no puedas disfrutar de Luca Money en Venezuela. Entendemos tu impaciencia y estamos trabajando para expandirnos. Te invitamos a escribir a mariano@lucamoney.com para mantenerte al tanto de nuestras novedades. Equipo Luca Money",
+      "approved": false
+    },
+    {
+      "platform": "ios",
+      "id": "00000192-9a99-fb03-4adc-8c8100000000",
+      "author": "Alelimon12",
+      "rating": 5,
+      "title": "Great app does the job",
+      "body": "Works quite well, has a few kinks but I see the potential here.",
+      "date": "2026-06-03T16:17:01-07:00",
+      "territory": "USA",
+      "proposed_response": "Thank you for your wonderful review! We're thrilled to hear you see the potential in Luca Money and appreciate your feedback on the kinks. We're always working to improve the experience for our users. Luca Money Team",
+      "approved": false
+    },
+    {
+      "platform": "ios",
+      "id": "00000192-9a99-fb03-433a-315a00000000",
+      "author": "Alefcripto",
+      "rating": 5,
+      "title": "Simple pero completa",
+      "body": "Cumple con ser una Wallet simple pero única que entiende al usuario común que busca auto custodia y poder pagar con USDC. De 10!",
+      "date": "2026-04-30T06:39:22-07:00",
+      "territory": "USA",
+      "proposed_response": "¡Muchas gracias por tu excelente reseña! Nos alegra mucho saber que encuentras Luca Money simple, completa y útil para la autocustodia y los pagos con USDC. Tu feedback nos motiva a seguir mejorando. Equipo Luca Money",
+      "approved": false
+    },
+    {
+      "platform": "android",
+      "id": "0ffcc885-6701-472f-80ff-74cd5b367272",
+      "author": "Yadiel Gonzalez gonzalez",
+      "rating": 5,
+      "title": "",
+      "body": "es lo más nesesario y útil que aya visto",
+      "date": "1780704071",
+      "territory": "es",
+      "proposed_response": "¡Gracias por tu reseña! Nos llena de alegría saber que encuentras Luca Money tan necesario y útil. Nos esforzamos por ofrecerte la mejor experiencia. Equipo Luca Money",
+      "approved": false
+    },
+    {
+      "platform": "android",
+      "id": "b0c427af-e590-4d40-b30a-b704378e4d69",
+      "author": "Sayna Sarmiento",
+      "rating": 5,
+      "title": "",
+      "body": "Me encanta lo facil que es usar Luca m, además tienen el mejor APY",
+      "date": "1780665824",
+      "territory": "es",
+      "proposed_response": "¡Qué alegría leer tu reseña, Sayna! Nos encanta que disfrutes la facilidad de uso de Luca Money y que valores nuestro APY. Seguimos trabajando para darte lo mejor. Equipo Luca Money",
+      "approved": false
+    },
+    {
+      "platform": "android",
+      "id": "55dba6a7-00b2-4546-bef0-262cbdfe421d",
+      "author": "David",
+      "rating": 5,
+      "title": "",
+      "body": "por ahora la recomiendo",
+      "date": "1780567049",
+      "territory": "es",
+      "proposed_response": "¡Muchas gracias por tu recomendación, David! Nos alegra que por ahora estés disfrutando de Luca Money. Esperamos seguir superando tus expectativas. Equipo Luca Money",
+      "approved": false
+    },
+    {
+      "platform": "android",
+      "id": "bc0e0dc2-53c5-4441-a575-8a9dad852791",
+      "author": "Jose Calzada",
+      "rating": 5,
+      "title": "",
+      "body": "Excelente",
+      "date": "1780539454",
+      "territory": "es",
+      "proposed_response": "¡Gracias, Jose, por tu excelente comentario! Nos alegra mucho que disfrutes de Luca Money. Equipo Luca Money",
+      "approved": false
+    },
+    {
+      "platform": "android",
+      "id": "a1395c38-5d11-43a0-b086-27ffb846cfc5",
+      "author": "Carlos Palmares",
+      "rating": 5,
+      "title": "",
+      "body": "Confiable. fácil de interactuar. moderna",
+      "date": "1780535284",
+      "territory": "es",
+      "proposed_response": "¡Carlos, muchas gracias por tu reseña! Nos complace saber que encuentras Luca Money confiable, fácil de interactuar y moderna. Tu opinión es muy valiosa para nosotros. Equipo Luca Money",
+      "approved": false
+    },
+    {
+      "platform": "android",
+      "id": "d3d35784-6e97-43bc-b51e-c934ab045b92",
+      "author": "ramon parra",
+      "rating": 5,
+      "title": "",
+      "body": "Excelente, fácil de usar",
+      "date": "1780517553",
+      "territory": "es",
+      "proposed_response": "¡Gracias, Ramón, por tu excelente reseña! Nos alegra mucho que encuentres Luca Money fácil de usar. Equipo Luca Money",
+      "approved": false
+    },
+    {
+      "platform": "android",
+      "id": "8dbf546a-f7b7-4821-b2d7-4d55a865f2db",
+      "author": "Alfredo Vidauri",
+      "rating": 5,
+      "title": "",
+      "body": "excelente",
+      "date": "1780246637",
+      "territory": "es",
+      "proposed_response": "¡Alfredo, muchas gracias por tu comentario! Nos alegra saber que tienes una excelente experiencia con Luca Money. Equipo Luca Money",
+      "approved": false
+    }
+  ]
+}

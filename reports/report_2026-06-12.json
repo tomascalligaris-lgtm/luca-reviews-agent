@@ -1,0 +1,117 @@
+{
+  "date": "2026-06-12",
+  "generated_at": "2026-06-12T14:37:13.594347",
+  "total_reviews": 9,
+  "ios_count": 3,
+  "android_count": 6,
+  "items": [
+    {
+      "platform": "ios",
+      "id": "00000192-9a99-fb03-496c-f0d300000000",
+      "author": "Joséjfc",
+      "rating": 1,
+      "title": "Decepción",
+      "body": "Hace 2 días que tengo error en verificar mis datos para tener mi cuenta en usd, el soporte a veces no responde por ende se cierra el chat, y cuando responden no me solucionan el problema, muy flojo.",
+      "date": "2026-05-28T12:26:07-07:00",
+      "territory": "ARG",
+      "proposed_response": "Lamentamos mucho los inconvenientes que has tenido con la verificación de tus datos y la comunicación con nuestro soporte. Entendemos tu frustración y queremos ayudarte a resolverlo. Por favor, escríbenos a mariano@lucamoney.com para que podamos asistirte directamente. Equipo Luca Money",
+      "approved": false
+    },
+    {
+      "platform": "ios",
+      "id": "00000192-9a99-fb03-4adc-8c8100000000",
+      "author": "Alelimon12",
+      "rating": 5,
+      "title": "Great app does the job",
+      "body": "Works quite well, has a few kinks but I see the potential here.",
+      "date": "2026-06-03T16:17:01-07:00",
+      "territory": "USA",
+      "proposed_response": "Thank you for your wonderful feedback! We're thrilled you see the potential in Luca Money and appreciate you noting that it works well. We're continuously working to smooth out any kinks and improve your experience. Luca Money Team",
+      "approved": false
+    },
+    {
+      "platform": "ios",
+      "id": "00000192-9a99-fb03-433a-315a00000000",
+      "author": "Alefcripto",
+      "rating": 5,
+      "title": "Simple pero completa",
+      "body": "Cumple con ser una Wallet simple pero única que entiende al usuario común que busca auto custodia y poder pagar con USDC. De 10!",
+      "date": "2026-04-30T06:39:22-07:00",
+      "territory": "USA",
+      "proposed_response": "¡Muchas gracias por tu excelente reseña! Nos alegra mucho saber que valoras la simplicidad de nuestra wallet y que te sea útil para la autocustodia y los pagos con USDC. ¡Nos motiva mucho tu comentario! Equipo Luca Money",
+      "approved": false
+    },
+    {
+      "platform": "android",
+      "id": "fe3567bd-a460-4897-8b76-a58474020b74",
+      "author": "StipValencia",
+      "rating": 5,
+      "title": "",
+      "body": "buena plataforma interesante",
+      "date": "1781267365",
+      "territory": "es",
+      "proposed_response": "¡Gracias por tu comentario! Nos alegra mucho que encuentres nuestra plataforma interesante. Seguimos trabajando para ofrecerte la mejor experiencia. Equipo Luca Money",
+      "approved": false
+    },
+    {
+      "platform": "android",
+      "id": "efa4e6e7-1e58-4ea2-a7e1-1ae65668c2bb",
+      "author": "Oswaldo Gonzalez",
+      "rating": 5,
+      "title": "",
+      "body": "super app sin duda y cada día innovando",
+      "date": "1781213755",
+      "territory": "es",
+      "proposed_response": "¡Qué alegría leer tu reseña! Nos encanta saber que consideras nuestra app \"super\" y que valoras nuestra innovación constante. ¡Gracias por tu apoyo! Equipo Luca Money",
+      "approved": false
+    },
+    {
+      "platform": "android",
+      "id": "2d663fea-ce74-402d-807e-f32b8bbee911",
+      "author": "Mayo Pioneros",
+      "rating": 5,
+      "title": "",
+      "body": "saderesolder los ejercicios de matemáticas fácil mete",
+      "date": "1781144179",
+      "territory": "es",
+      "proposed_response": "¡Muchas gracias por tu reseña de 5 estrellas! Nos alegra mucho que disfrutes de la aplicación. Seguimos trabajando para mejorar tu experiencia. Equipo Luca Money",
+      "approved": false
+    },
+    {
+      "platform": "android",
+      "id": "28a23807-fd61-4620-ba9d-fa698bbe0c42",
+      "author": "Adolfino Alderete vera",
+      "rating": 5,
+      "title": "",
+      "body": "espetacular",
+      "date": "1781043780",
+      "territory": "es",
+      "proposed_response": "¡Nos alegra muchísimo que pienses que somos \"espetacular\"! Agradecemos de corazón tu entusiasmo y tu reseña de 5 estrellas. ¡Gracias por ser parte de Luca Money! Equipo Luca Money",
+      "approved": false
+    },
+    {
+      "platform": "android",
+      "id": "fdd8599e-1211-4dde-9fc2-1196b75d8a72",
+      "author": "ALVEN HEBERTO GUTIERREZ",
+      "rating": 5,
+      "title": "",
+      "body": "Excelente Aplicación ✅",
+      "date": "1780880918",
+      "territory": "es",
+      "proposed_response": "¡Muchas gracias por tu excelente reseña! Nos llena de alegría saber que consideras nuestra aplicación excelente. ¡Seguimos trabajando para ti! Equipo Luca Money",
+      "approved": false
+    },
+    {
+      "platform": "android",
+      "id": "0ffcc885-6701-472f-80ff-74cd5b367272",
+      "author": "Yadiel Gonzalez gonzalez",
+      "rating": 5,
+      "title": "",
+      "body": "es lo más nesesario y útil que aya visto",
+      "date": "1780704071",
+      "territory": "es",
+      "proposed_response": "¡Qué gran cumplido! Nos alegra mucho saber que encuentras nuestra aplicación tan necesaria y útil. ¡Gracias por tu valiosa reseña! Equipo Luca Money",
+      "approved": false
+    }
+  ]
+}

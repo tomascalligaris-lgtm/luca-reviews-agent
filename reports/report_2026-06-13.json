@@ -1,0 +1,33 @@
+{
+  "date": "2026-06-13",
+  "generated_at": "2026-06-13T13:27:50.009100",
+  "total_reviews": 2,
+  "ios_count": 0,
+  "android_count": 2,
+  "items": [
+    {
+      "platform": "android",
+      "id": "fe3567bd-a460-4897-8b76-a58474020b74",
+      "author": "StipValencia",
+      "rating": 5,
+      "title": "",
+      "body": "buena plataforma interesante",
+      "date": "1781267365",
+      "territory": "es",
+      "proposed_response": "¡Muchas gracias por tu reseña! Nos alegra mucho que encuentres nuestra plataforma interesante. Seguimos trabajando para ofrecerte la mejor experiencia. Equipo Luca Money",
+      "approved": false
+    },
+    {
+      "platform": "android",
+      "id": "efa4e6e7-1e58-4ea2-a7e1-1ae65668c2bb",
+      "author": "Oswaldo Gonzalez",
+      "rating": 5,
+      "title": "",
+      "body": "super app sin duda y cada día innovando",
+      "date": "1781213755",
+      "territory": "es",
+      "proposed_response": "¡Qué alegría leer tu comentario, Oswaldo! Nos motiva mucho saber que consideras Luca una \"super app\" y que valoras nuestra innovación diaria. ¡Gracias por tu apoyo! Equipo Luca Money",
+      "approved": false
+    }
+  ]
+}

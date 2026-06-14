@@ -1,0 +1,57 @@
+{
+  "date": "2026-06-14",
+  "generated_at": "2026-06-14T13:30:38.655393",
+  "total_reviews": 4,
+  "ios_count": 1,
+  "android_count": 3,
+  "items": [
+    {
+      "platform": "ios",
+      "id": "00000192-9a99-fb03-4cee-d49400000000",
+      "author": "Soporte pésimo 2",
+      "rating": 1,
+      "title": "Soporte",
+      "body": "Su servicio de soporte es pésimo , te dejan esperando por horas o días",
+      "date": "2026-06-12T15:50:40-07:00",
+      "territory": "BOL",
+      "proposed_response": "Lamentamos mucho que hayas tenido una mala experiencia con nuestro soporte. Entendemos tu frustración por los tiempos de espera y te pedimos disculpas sinceras. Nos gustaría ayudarte a resolver esto, por favor escríbenos a mariano@lucamoney.com para que podamos asistirte directamente. Equipo Luca Money",
+      "approved": false
+    },
+    {
+      "platform": "android",
+      "id": "83b415dd-7f62-4699-a50e-1616fb5d4d23",
+      "author": "Pedro",
+      "rating": 5,
+      "title": "",
+      "body": "es bueno saludos",
+      "date": "1781383614",
+      "territory": "es",
+      "proposed_response": "¡Muchas gracias por tu comentario, Pedro! Nos alegra mucho saber que consideras nuestra app buena. Agradecemos tus saludos y tu apoyo. Equipo Luca Money",
+      "approved": false
+    },
+    {
+      "platform": "android",
+      "id": "fe3567bd-a460-4897-8b76-a58474020b74",
+      "author": "StipValencia",
+      "rating": 5,
+      "title": "",
+      "body": "buena plataforma interesante",
+      "date": "1781267365",
+      "territory": "es",
+      "proposed_response": "¡Gracias, StipValencia, por tu reseña! Nos encanta que encuentres nuestra plataforma buena e interesante. Seguimos trabajando para ofrecerte la mejor experiencia. Equipo Luca Money",
+      "approved": false
+    },
+    {
+      "platform": "android",
+      "id": "efa4e6e7-1e58-4ea2-a7e1-1ae65668c2bb",
+      "author": "Oswaldo Gonzalez",
+      "rating": 5,
+      "title": "",
+      "body": "super app sin duda y cada día innovando",
+      "date": "1781213755",
+      "territory": "es",
+      "proposed_response": "¡Qué gran comentario, Oswaldo Gonzalez! Nos llena de alegría saber que consideras nuestra app súper y que valoras nuestra constante innovación. Gracias por tu apoyo. Equipo Luca Money",
+      "approved": false
+    }
+  ]
+}

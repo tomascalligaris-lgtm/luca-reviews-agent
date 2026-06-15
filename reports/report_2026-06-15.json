@@ -1,0 +1,81 @@
+{
+  "date": "2026-06-15",
+  "generated_at": "2026-06-15T17:00:18.602561",
+  "total_reviews": 6,
+  "ios_count": 1,
+  "android_count": 5,
+  "items": [
+    {
+      "platform": "ios",
+      "id": "00000192-9a99-fb03-4cee-d49400000000",
+      "author": "Soporte pésimo 2",
+      "rating": 1,
+      "title": "Soporte",
+      "body": "Su servicio de soporte es pésimo , te dejan esperando por horas o días",
+      "date": "2026-06-12T15:50:40-07:00",
+      "territory": "BOL",
+      "proposed_response": "Lamentamos mucho que hayas tenido una experiencia negativa con nuestro soporte. Entendemos tu frustración por la espera y te pedimos sinceras disculpas. Por favor, escríbenos a mariano@lucamoney.com para que podamos asistirte personalmente y mejorar. Equipo Luca Money",
+      "approved": false
+    },
+    {
+      "platform": "android",
+      "id": "51023603-a800-498c-8d3c-f67db6249410",
+      "author": "Ibor Reinoso",
+      "rating": 4,
+      "title": "",
+      "body": "Hasta los momentos muy bien, rápido y seguro.",
+      "date": "1781484740",
+      "territory": "es",
+      "proposed_response": "¡Muchas gracias por tu reseña, Ibor! Nos alegra saber que encuentras nuestra app rápida y segura. Apreciamos mucho tu confianza en Luca Money. Equipo Luca Money",
+      "approved": false
+    },
+    {
+      "platform": "android",
+      "id": "983f8d1f-ecca-467b-bcce-70a5c69b1052",
+      "author": "José Jiménez",
+      "rating": 5,
+      "title": "",
+      "body": "La utilizaré porque me va servir de buena utilidad",
+      "date": "1781473433",
+      "territory": "es",
+      "proposed_response": "¡Hola José! Nos llena de alegría saber que Luca Money te será de gran utilidad. Estamos aquí para ayudarte a alcanzar tus metas de ahorro. ¡Gracias por tu confianza! Equipo Luca Money",
+      "approved": false
+    },
+    {
+      "platform": "android",
+      "id": "83b415dd-7f62-4699-a50e-1616fb5d4d23",
+      "author": "Pedro",
+      "rating": 5,
+      "title": "",
+      "body": "es bueno saludos",
+      "date": "1781383614",
+      "territory": "es",
+      "proposed_response": "¡Gracias por tu comentario, Pedro! Nos alegra mucho saber que consideras nuestra app buena. Seguimos trabajando para ofrecerte la mejor experiencia. Equipo Luca Money",
+      "approved": false
+    },
+    {
+      "platform": "android",
+      "id": "fe3567bd-a460-4897-8b76-a58474020b74",
+      "author": "StipValencia",
+      "rating": 5,
+      "title": "",
+      "body": "buena plataforma interesante",
+      "date": "1781267365",
+      "territory": "es",
+      "proposed_response": "¡Muchas gracias por tu reseña, StipValencia! Nos encanta que encuentres nuestra plataforma buena e interesante. Estamos comprometidos con tu éxito financiero. Equipo Luca Money",
+      "approved": false
+    },
+    {
+      "platform": "android",
+      "id": "efa4e6e7-1e58-4ea2-a7e1-1ae65668c2bb",
+      "author": "Oswaldo Gonzalez",
+      "rating": 5,
+      "title": "",
+      "body": "super app sin duda y cada día innovando",
+      "date": "1781213755",
+      "territory": "es",
+      "proposed_response": "¡Hola Oswaldo! Qué alegría leer que consideras nuestra app \"súper\" y que valoras nuestra innovación. Tu apoyo nos motiva a seguir mejorando cada día. Equipo Luca Money",
+      "approved": false
+    }
+  ]
+}

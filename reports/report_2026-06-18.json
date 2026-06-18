@@ -1,0 +1,33 @@
+{
+  "date": "2026-06-18",
+  "generated_at": "2026-06-18T14:48:48.029340",
+  "total_reviews": 2,
+  "ios_count": 0,
+  "android_count": 2,
+  "items": [
+    {
+      "platform": "android",
+      "id": "672a7e12-a676-439d-a057-4d15d68efb5e",
+      "author": "Emilio Martinez",
+      "rating": 2,
+      "title": "",
+      "body": "Estoy pendiente.",
+      "date": "1781734457",
+      "territory": "es",
+      "proposed_response": "Lamentamos si hay algo que te tiene pendiente o si estás experimentando alguna dificultad. Nos gustaría entender mejor cómo podemos ayudarte. Por favor, escríbenos a mariano@lucamoney.com para que podamos asistirte personalmente. Equipo Luca Money",
+      "approved": false
+    },
+    {
+      "platform": "android",
+      "id": "f32e35a0-c4b8-45e8-b7b3-015510eaf388",
+      "author": "Argenis Useche",
+      "rating": 5,
+      "title": "",
+      "body": "muy buena App la recomiendo al 100% gracias",
+      "date": "1781750477",
+      "territory": "es",
+      "proposed_response": "¡Muchas gracias por tu excelente reseña y por recomendar nuestra app al 100%! Nos alegra mucho saber que estás disfrutando de Luca Money. Equipo Luca Money",
+      "approved": false
+    }
+  ]
+}

@@ -1,0 +1,21 @@
+{
+  "date": "2026-06-19",
+  "generated_at": "2026-06-19T14:44:44.007670",
+  "total_reviews": 1,
+  "ios_count": 0,
+  "android_count": 1,
+  "items": [
+    {
+      "platform": "android",
+      "id": "722b0fcd-ae7f-4bfc-a7a7-8e6efae2a40d",
+      "author": "Hermes Jose Longart Bravo",
+      "rating": 5,
+      "title": "",
+      "body": "excelente",
+      "date": "1781836896",
+      "territory": "es",
+      "proposed_response": "",
+      "approved": false
+    }
+  ]
+}

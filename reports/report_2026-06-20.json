@@ -1,0 +1,33 @@
+{
+  "date": "2026-06-20",
+  "generated_at": "2026-06-20T13:29:41.408993",
+  "total_reviews": 2,
+  "ios_count": 0,
+  "android_count": 2,
+  "items": [
+    {
+      "platform": "android",
+      "id": "e97e0a8f-93d8-420f-92d4-b5497b587dc6",
+      "author": "Angela Martinez",
+      "rating": 5,
+      "title": "",
+      "body": "julio prueba que me gusta no no no n 🙃❤️😡😁😙 no no",
+      "date": "1781903037",
+      "territory": "es",
+      "proposed_response": "",
+      "approved": false
+    },
+    {
+      "platform": "android",
+      "id": "722b0fcd-ae7f-4bfc-a7a7-8e6efae2a40d",
+      "author": "Hermes Jose Longart Bravo",
+      "rating": 5,
+      "title": "",
+      "body": "excelente",
+      "date": "1781836896",
+      "territory": "es",
+      "proposed_response": "",
+      "approved": false
+    }
+  ]
+}

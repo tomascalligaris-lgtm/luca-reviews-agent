@@ -1,0 +1,45 @@
+{
+  "date": "2026-06-22",
+  "generated_at": "2026-06-22T16:29:47.960947",
+  "total_reviews": 3,
+  "ios_count": 0,
+  "android_count": 3,
+  "items": [
+    {
+      "platform": "android",
+      "id": "7c2ee8be-a9b1-4db5-a3d5-5083fb60629c",
+      "author": "Ashly Daniela García orellana",
+      "rating": 1,
+      "title": "",
+      "body": "decía que era gratuita",
+      "date": "1782077367",
+      "territory": "es",
+      "proposed_response": "",
+      "approved": false
+    },
+    {
+      "platform": "android",
+      "id": "9435d8e0-6907-4461-a63e-1a4d9a6e8d87",
+      "author": "Irma Consuelo",
+      "rating": 2,
+      "title": "",
+      "body": "lindo",
+      "date": "1781999620",
+      "territory": "es",
+      "proposed_response": "",
+      "approved": false
+    },
+    {
+      "platform": "android",
+      "id": "722b0fcd-ae7f-4bfc-a7a7-8e6efae2a40d",
+      "author": "Hermes Jose Longart Bravo",
+      "rating": 5,
+      "title": "",
+      "body": "excelente",
+      "date": "1781836896",
+      "territory": "es",
+      "proposed_response": "",
+      "approved": false
+    }
+  ]
+}

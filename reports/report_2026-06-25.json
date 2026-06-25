@@ -1,0 +1,93 @@
+{
+  "date": "2026-06-25",
+  "generated_at": "2026-06-25T14:05:14.563268",
+  "total_reviews": 7,
+  "ios_count": 1,
+  "android_count": 6,
+  "items": [
+    {
+      "platform": "android",
+      "id": "7c2ee8be-a9b1-4db5-a3d5-5083fb60629c",
+      "author": "Ashly Daniela García orellana",
+      "rating": 1,
+      "title": "",
+      "body": "decía que era gratuita",
+      "date": "1782077367",
+      "territory": "es",
+      "proposed_response": "",
+      "approved": false
+    },
+    {
+      "platform": "android",
+      "id": "9435d8e0-6907-4461-a63e-1a4d9a6e8d87",
+      "author": "Irma Consuelo",
+      "rating": 2,
+      "title": "",
+      "body": "lindo",
+      "date": "1781999620",
+      "territory": "es",
+      "proposed_response": "",
+      "approved": false
+    },
+    {
+      "platform": "ios",
+      "id": "00000192-9a99-fb03-4eea-a96b00000000",
+      "author": "Andrésmolea",
+      "rating": 5,
+      "title": "Los mejores",
+      "body": "La mejor app",
+      "date": "2026-06-21T05:32:01-07:00",
+      "territory": "VEN",
+      "proposed_response": "",
+      "approved": false
+    },
+    {
+      "platform": "android",
+      "id": "eb6858e0-7018-4b23-9371-29bb746775a7",
+      "author": "ronny moreno",
+      "rating": 5,
+      "title": "",
+      "body": "muchas Gracias por sus Bendiciones y apoyo muchas Gracias.",
+      "date": "1782323747",
+      "territory": "es",
+      "proposed_response": "",
+      "approved": false
+    },
+    {
+      "platform": "android",
+      "id": "a024a500-335f-4bb6-9c4b-fb3f3b4e2613",
+      "author": "Edgar Calel",
+      "rating": 5,
+      "title": "",
+      "body": "es que me gusta jugar mucho y tengo la mejor experiencia del mundo de lo que creen ustedes hay unas casas cabinas es muy divertido todo conoces gente y todo eso lo que yo especificaba todo esas cosas es que me gusta caminar y eso y me gusta conocer amigos quiero hacer amigos muchísimos amigos de verdad y me gusta Siri te portas bien pero dice que vuélvete a mi gata mucho porque es una obsesión que de verdad me encanta me adora y es 427 cada cuándo juega is entretenido y es maravilloso de usar y",
+      "date": "1782251813",
+      "territory": "es",
+      "proposed_response": "",
+      "approved": false
+    },
+    {
+      "platform": "android",
+      "id": "9050eaa2-365a-4686-aba9-4bf5a34fc84c",
+      "author": "Vidal Sanchez",
+      "rating": 5,
+      "title": "",
+      "body": "muy.emotiba",
+      "date": "1782152720",
+      "territory": "es",
+      "proposed_response": "",
+      "approved": false
+    },
+    {
+      "platform": "android",
+      "id": "722b0fcd-ae7f-4bfc-a7a7-8e6efae2a40d",
+      "author": "Hermes Jose Longart Bravo",
+      "rating": 5,
+      "title": "",
+      "body": "excelente",
+      "date": "1781836896",
+      "territory": "es",
+      "proposed_response": "",
+      "approved": false
+    }
+  ]
+}

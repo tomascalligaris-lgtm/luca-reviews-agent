@@ -1,0 +1,69 @@
+{
+  "date": "2026-06-26",
+  "generated_at": "2026-06-26T14:04:55.788601",
+  "total_reviews": 5,
+  "ios_count": 1,
+  "android_count": 4,
+  "items": [
+    {
+      "platform": "android",
+      "id": "7c2ee8be-a9b1-4db5-a3d5-5083fb60629c",
+      "author": "Ashly Daniela García orellana",
+      "rating": 1,
+      "title": "",
+      "body": "decía que era gratuita",
+      "date": "1782077367",
+      "territory": "es",
+      "proposed_response": "",
+      "approved": false
+    },
+    {
+      "platform": "android",
+      "id": "9435d8e0-6907-4461-a63e-1a4d9a6e8d87",
+      "author": "Irma Consuelo",
+      "rating": 2,
+      "title": "",
+      "body": "lindo",
+      "date": "1781999620",
+      "territory": "es",
+      "proposed_response": "",
+      "approved": false
+    },
+    {
+      "platform": "ios",
+      "id": "00000192-9a99-fb03-4eea-a96b00000000",
+      "author": "Andrésmolea",
+      "rating": 5,
+      "title": "Los mejores",
+      "body": "La mejor app",
+      "date": "2026-06-21T05:32:01-07:00",
+      "territory": "VEN",
+      "proposed_response": "",
+      "approved": false
+    },
+    {
+      "platform": "android",
+      "id": "845cfea8-0ab3-4653-a160-37ddcf272591",
+      "author": "ELIS GIMÉNEZ",
+      "rating": 5,
+      "title": "",
+      "body": "excelente!!!",
+      "date": "1782423724",
+      "territory": "es",
+      "proposed_response": "",
+      "approved": false
+    },
+    {
+      "platform": "android",
+      "id": "eb6858e0-7018-4b23-9371-29bb746775a7",
+      "author": "ronny moreno",
+      "rating": 5,
+      "title": "",
+      "body": "muchas Gracias por sus Bendiciones y apoyo muchas Gracias.",
+      "date": "1782323747",
+      "territory": "es",
+      "proposed_response": "",
+      "approved": false
+    }
+  ]
+}

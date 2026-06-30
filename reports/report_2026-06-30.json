@@ -1,0 +1,117 @@
+{
+  "date": "2026-06-30",
+  "generated_at": "2026-06-30T13:58:22.429898",
+  "total_reviews": 9,
+  "ios_count": 1,
+  "android_count": 8,
+  "items": [
+    {
+      "platform": "ios",
+      "id": "00000192-9a99-fb03-4eea-a96b00000000",
+      "author": "Andrésmolea",
+      "rating": 5,
+      "title": "Los mejores",
+      "body": "La mejor app",
+      "date": "2026-06-21T05:32:01-07:00",
+      "territory": "VEN",
+      "proposed_response": "",
+      "approved": false
+    },
+    {
+      "platform": "android",
+      "id": "ebe1255a-b3d7-46db-9326-0b8ba0e4e486",
+      "author": "Mary Martinez",
+      "rating": 5,
+      "title": "",
+      "body": "NO TENGO NINGUNA.",
+      "date": "1782763094",
+      "territory": "es",
+      "proposed_response": "",
+      "approved": false
+    },
+    {
+      "platform": "android",
+      "id": "7f963b4f-fec1-4a6b-b9c3-c1361d199091",
+      "author": "Eva López",
+      "rating": 5,
+      "title": "",
+      "body": "trabajo y soy responsable solo quiero mi privacidad",
+      "date": "1782682217",
+      "territory": "es",
+      "proposed_response": "",
+      "approved": false
+    },
+    {
+      "platform": "android",
+      "id": "8ce85717-4832-4083-9cfe-15bfd9594471",
+      "author": "Adolfo Martinez",
+      "rating": 5,
+      "title": "",
+      "body": "Muy buena",
+      "date": "1782633880",
+      "territory": "es",
+      "proposed_response": "",
+      "approved": false
+    },
+    {
+      "platform": "android",
+      "id": "b0f0f57a-48ce-4fd6-9522-b9f47fdad230",
+      "author": "Miguel Acosta",
+      "rating": 5,
+      "title": "",
+      "body": "me esta gustando",
+      "date": "1782598475",
+      "territory": "es",
+      "proposed_response": "",
+      "approved": false
+    },
+    {
+      "platform": "android",
+      "id": "d91cc6e0-9445-4afa-a61f-e810b2590e0d",
+      "author": "Patricia Garzon vaca",
+      "rating": 5,
+      "title": "",
+      "body": "es muy bueno",
+      "date": "1782522878",
+      "territory": "es",
+      "proposed_response": "",
+      "approved": false
+    },
+    {
+      "platform": "android",
+      "id": "8c9c7f41-77f7-44bf-bc6d-a22014481a4e",
+      "author": "Alejandro Gallardo",
+      "rating": 5,
+      "title": "",
+      "body": "buena",
+      "date": "1782508443",
+      "territory": "es",
+      "proposed_response": "",
+      "approved": false
+    },
+    {
+      "platform": "android",
+      "id": "845cfea8-0ab3-4653-a160-37ddcf272591",
+      "author": "ELIS GIMÉNEZ",
+      "rating": 5,
+      "title": "",
+      "body": "excelente!!!",
+      "date": "1782423724",
+      "territory": "es",
+      "proposed_response": "",
+      "approved": false
+    },
+    {
+      "platform": "android",
+      "id": "eb6858e0-7018-4b23-9371-29bb746775a7",
+      "author": "ronny moreno",
+      "rating": 5,
+      "title": "",
+      "body": "muchas Gracias por sus Bendiciones y apoyo muchas Gracias.",
+      "date": "1782323747",
+      "territory": "es",
+      "proposed_response": "",
+      "approved": false
+    }
+  ]
+}

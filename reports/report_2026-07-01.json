@@ -1,0 +1,21 @@
+{
+  "date": "2026-07-01",
+  "generated_at": "2026-07-01T14:10:40.941580",
+  "total_reviews": 1,
+  "ios_count": 0,
+  "android_count": 1,
+  "items": [
+    {
+      "platform": "android",
+      "id": "ebe1255a-b3d7-46db-9326-0b8ba0e4e486",
+      "author": "Mary Martinez",
+      "rating": 5,
+      "title": "",
+      "body": "NO TENGO NINGUNA.",
+      "date": "1782763094",
+      "territory": "es",
+      "proposed_response": "",
+      "approved": false
+    }
+  ]
+}

@@ -1,0 +1,57 @@
+{
+  "date": "2026-07-03",
+  "generated_at": "2026-07-03T13:44:25.431811",
+  "total_reviews": 4,
+  "ios_count": 0,
+  "android_count": 4,
+  "items": [
+    {
+      "platform": "android",
+      "id": "c67c2b94-8eeb-4756-9c58-6f1f93d7b6d1",
+      "author": "Amalia Cruz",
+      "rating": 1,
+      "title": "",
+      "body": "vendo mangos Aguacates pitajallas",
+      "date": "1783006772",
+      "territory": "es",
+      "proposed_response": "",
+      "approved": false
+    },
+    {
+      "platform": "android",
+      "id": "c9da68a8-ddc5-43f0-b5f5-36cf8e36eb5f",
+      "author": "עוזיאל ADOLFO GONZALEZ",
+      "rating": 5,
+      "title": "",
+      "body": "Excellent app for moving and staking funds",
+      "date": "1783075969",
+      "territory": "en",
+      "proposed_response": "",
+      "approved": false
+    },
+    {
+      "platform": "android",
+      "id": "1e7f630f-e6a0-4101-95b8-3119ef2d8beb",
+      "author": "Fernando Suarez",
+      "rating": 5,
+      "title": "",
+      "body": "bueno",
+      "date": "1782924117",
+      "territory": "es",
+      "proposed_response": "",
+      "approved": false
+    },
+    {
+      "platform": "android",
+      "id": "ebe1255a-b3d7-46db-9326-0b8ba0e4e486",
+      "author": "Mary Martinez",
+      "rating": 5,
+      "title": "",
+      "body": "NO TENGO NINGUNA.",
+      "date": "1782763094",
+      "territory": "es",
+      "proposed_response": "",
+      "approved": false
+    }
+  ]
+}

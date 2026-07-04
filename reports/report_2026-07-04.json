@@ -1,0 +1,69 @@
+{
+  "date": "2026-07-04",
+  "generated_at": "2026-07-04T13:02:04.073031",
+  "total_reviews": 5,
+  "ios_count": 0,
+  "android_count": 5,
+  "items": [
+    {
+      "platform": "android",
+      "id": "e0cff569-1f48-4f0a-8b1a-a3c3594ca629",
+      "author": "Reinaldo Villegas",
+      "rating": 1,
+      "title": "",
+      "body": "no me gustó",
+      "date": "1783104936",
+      "territory": "es",
+      "proposed_response": "",
+      "approved": false
+    },
+    {
+      "platform": "android",
+      "id": "a833d4d4-97df-4509-8c55-ee94b683085c",
+      "author": "Joel Morillo",
+      "rating": 2,
+      "title": "",
+      "body": "mejorar lo de recuperación de cuenta",
+      "date": "1783105397",
+      "territory": "es",
+      "proposed_response": "",
+      "approved": false
+    },
+    {
+      "platform": "android",
+      "id": "c9da68a8-ddc5-43f0-b5f5-36cf8e36eb5f",
+      "author": "עוזיאל ADOLFO GONZALEZ",
+      "rating": 5,
+      "title": "",
+      "body": "Excellent app for moving and staking funds",
+      "date": "1783075969",
+      "territory": "en",
+      "proposed_response": "",
+      "approved": false
+    },
+    {
+      "platform": "android",
+      "id": "1e7f630f-e6a0-4101-95b8-3119ef2d8beb",
+      "author": "Fernando Suarez",
+      "rating": 5,
+      "title": "",
+      "body": "bueno",
+      "date": "1782924117",
+      "territory": "es",
+      "proposed_response": "",
+      "approved": false
+    },
+    {
+      "platform": "android",
+      "id": "ebe1255a-b3d7-46db-9326-0b8ba0e4e486",
+      "author": "Mary Martinez",
+      "rating": 5,
+      "title": "",
+      "body": "NO TENGO NINGUNA.",
+      "date": "1782763094",
+      "territory": "es",
+      "proposed_response": "",
+      "approved": false
+    }
+  ]
+}

@@ -1,0 +1,105 @@
+{
+  "date": "2026-07-06",
+  "generated_at": "2026-07-06T15:12:53.580670",
+  "total_reviews": 8,
+  "ios_count": 0,
+  "android_count": 8,
+  "items": [
+    {
+      "platform": "android",
+      "id": "6938efbf-cd97-4ea7-947a-a2b6ec821d7f",
+      "author": "Joel Morillo",
+      "rating": 1,
+      "title": "",
+      "body": "mala atención al cliente no responde",
+      "date": "1783343184",
+      "territory": "es",
+      "proposed_response": "",
+      "approved": false
+    },
+    {
+      "platform": "android",
+      "id": "c04ead45-2a6b-4814-b3e0-b59541b6256c",
+      "author": "Javier Antonio Casal Nazrala",
+      "rating": 1,
+      "title": "",
+      "body": "No era lo que Yo esperaba. Favor eliminar mi cuenta.",
+      "date": "1783171217",
+      "territory": "es",
+      "proposed_response": "",
+      "approved": false
+    },
+    {
+      "platform": "android",
+      "id": "e0cff569-1f48-4f0a-8b1a-a3c3594ca629",
+      "author": "Reinaldo Villegas",
+      "rating": 1,
+      "title": "",
+      "body": "no me gustó",
+      "date": "1783104936",
+      "territory": "es",
+      "proposed_response": "",
+      "approved": false
+    },
+    {
+      "platform": "android",
+      "id": "72347a28-8ecf-49ad-9ff7-f5fa80610a8e",
+      "author": "Brad Oblitas Vásquez",
+      "rating": 5,
+      "title": "",
+      "body": "Excelente app, por el momento",
+      "date": "1783274863",
+      "territory": "es",
+      "proposed_response": "",
+      "approved": false
+    },
+    {
+      "platform": "android",
+      "id": "f372e802-45a4-4ceb-befd-ee8b35d36afd",
+      "author": "Pastor Elvir",
+      "rating": 5,
+      "title": "",
+      "body": "👍",
+      "date": "1783193526",
+      "territory": "es",
+      "proposed_response": "",
+      "approved": false
+    },
+    {
+      "platform": "android",
+      "id": "c9da68a8-ddc5-43f0-b5f5-36cf8e36eb5f",
+      "author": "עוזיאל ADOLFO GONZALEZ",
+      "rating": 5,
+      "title": "",
+      "body": "Excellent app for moving and staking funds",
+      "date": "1783075969",
+      "territory": "en",
+      "proposed_response": "",
+      "approved": false
+    },
+    {
+      "platform": "android",
+      "id": "1e7f630f-e6a0-4101-95b8-3119ef2d8beb",
+      "author": "Fernando Suarez",
+      "rating": 5,
+      "title": "",
+      "body": "bueno",
+      "date": "1782924117",
+      "territory": "es",
+      "proposed_response": "",
+      "approved": false
+    },
+    {
+      "platform": "android",
+      "id": "ebe1255a-b3d7-46db-9326-0b8ba0e4e486",
+      "author": "Mary Martinez",
+      "rating": 5,
+      "title": "",
+      "body": "NO TENGO NINGUNA.",
+      "date": "1782763094",
+      "territory": "es",
+      "proposed_response": "",
+      "approved": false
+    }
+  ]
+}

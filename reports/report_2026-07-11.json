@@ -1,0 +1,33 @@
+{
+  "date": "2026-07-11",
+  "generated_at": "2026-07-11T12:57:19.597768",
+  "total_reviews": 2,
+  "ios_count": 0,
+  "android_count": 2,
+  "items": [
+    {
+      "platform": "android",
+      "id": "02fb38d5-0c23-4038-b395-21afd6ed4861",
+      "author": "Joel Morillo",
+      "rating": 2,
+      "title": "",
+      "body": "mejorar la atención al cliente",
+      "date": "1783746903",
+      "territory": "es",
+      "proposed_response": "",
+      "approved": false
+    },
+    {
+      "platform": "android",
+      "id": "acd29a11-2f8e-4e75-b4da-038c1ec8bcee",
+      "author": "Angel Diez",
+      "rating": 5,
+      "title": "",
+      "body": "excelente",
+      "date": "1783673158",
+      "territory": "es",
+      "proposed_response": "",
+      "approved": false
+    }
+  ]
+}

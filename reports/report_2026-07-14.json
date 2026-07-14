@@ -1,0 +1,81 @@
+{
+  "date": "2026-07-14",
+  "generated_at": "2026-07-14T13:11:04.905692",
+  "total_reviews": 6,
+  "ios_count": 0,
+  "android_count": 6,
+  "items": [
+    {
+      "platform": "android",
+      "id": "444ddd71-6d0b-419b-a021-261ee919f69f",
+      "author": "Anthony González",
+      "rating": 1,
+      "title": "",
+      "body": "no he podido acceder a la cuenta de usd porque se congela",
+      "date": "1783779349",
+      "territory": "es",
+      "proposed_response": "",
+      "approved": false
+    },
+    {
+      "platform": "android",
+      "id": "02fb38d5-0c23-4038-b395-21afd6ed4861",
+      "author": "Joel Morillo",
+      "rating": 2,
+      "title": "",
+      "body": "mejorar la atención al cliente",
+      "date": "1783746903",
+      "territory": "es",
+      "proposed_response": "",
+      "approved": false
+    },
+    {
+      "platform": "android",
+      "id": "04a427a5-c49e-4250-9fa7-00af5c18b66c",
+      "author": "Gustavo Reques",
+      "rating": 5,
+      "title": "",
+      "body": "Es una excelente aplicación. cumple con lo que ofrece.. la recomiendo ampliamente!",
+      "date": "1784021054",
+      "territory": "es",
+      "proposed_response": "",
+      "approved": false
+    },
+    {
+      "platform": "android",
+      "id": "b25e99e6-2367-465e-9a28-4dba642e1a0b",
+      "author": "William Antonio Hernández flores",
+      "rating": 5,
+      "title": "",
+      "body": "bueno",
+      "date": "1783949379",
+      "territory": "es",
+      "proposed_response": "",
+      "approved": false
+    },
+    {
+      "platform": "android",
+      "id": "8fd40f12-5487-422c-930a-9405a1d8dbc3",
+      "author": "Juan Noguera",
+      "rating": 5,
+      "title": "",
+      "body": "bueno quiero ver resultados",
+      "date": "1783877652",
+      "territory": "es",
+      "proposed_response": "",
+      "approved": false
+    },
+    {
+      "platform": "android",
+      "id": "acd29a11-2f8e-4e75-b4da-038c1ec8bcee",
+      "author": "Angel Diez",
+      "rating": 5,
+      "title": "",
+      "body": "excelente",
+      "date": "1783673158",
+      "territory": "es",
+      "proposed_response": "",
+      "approved": false
+    }
+  ]
+}

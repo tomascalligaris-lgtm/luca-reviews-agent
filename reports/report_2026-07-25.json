@@ -1,0 +1,81 @@
+{
+  "date": "2026-07-25",
+  "generated_at": "2026-07-25T13:03:13.544580",
+  "total_reviews": 6,
+  "ios_count": 0,
+  "android_count": 6,
+  "items": [
+    {
+      "platform": "android",
+      "id": "f337c0af-a544-4388-88bf-a79c21fc31b1",
+      "author": "Jorge Hernández González",
+      "rating": 1,
+      "title": "",
+      "body": "solo especifica en deposito de Binancw que el mínimo de deposito es 15 usd en le resto de los depósitos de usdt/usdc no especifica y soporte no responde a sus clientes todo parece ser una estafa mas.",
+      "date": "1784380548",
+      "territory": "es",
+      "proposed_response": "",
+      "approved": false
+    },
+    {
+      "platform": "android",
+      "id": "628b5f5a-f779-477b-ae64-1dff5cca06c8",
+      "author": "Ronel Estrada Hjuelos",
+      "rating": 5,
+      "title": "",
+      "body": "está App funciona trabaja brinda sus servicios al país Cuba 🇨🇺sin restricción se puede usar desde Cuba. información por favor",
+      "date": "1784732697",
+      "territory": "es",
+      "proposed_response": "",
+      "approved": false
+    },
+    {
+      "platform": "android",
+      "id": "7851e97b-8587-4471-8d89-19d956aa8327",
+      "author": "Rafael Coutte",
+      "rating": 5,
+      "title": "",
+      "body": "real",
+      "date": "1784544592",
+      "territory": "es",
+      "proposed_response": "",
+      "approved": false
+    },
+    {
+      "platform": "android",
+      "id": "baf2681a-2f34-487d-8d84-a9aea59dd920",
+      "author": "Diego Isaac",
+      "rating": 5,
+      "title": "",
+      "body": "buena",
+      "date": "1784483424",
+      "territory": "es",
+      "proposed_response": "",
+      "approved": false
+    },
+    {
+      "platform": "android",
+      "id": "84679675-25e0-4230-8efc-ed50607ffcae",
+      "author": "José Ever Miranda Quintero",
+      "rating": 5,
+      "title": "",
+      "body": "España 2 y Argentina 1",
+      "date": "1784479983",
+      "territory": "es",
+      "proposed_response": "",
+      "approved": false
+    },
+    {
+      "platform": "android",
+      "id": "419219d7-fa4a-41ec-a578-52eedbe58916",
+      "author": "Héctor Eduardo López Arrubla",
+      "rating": 5,
+      "title": "",
+      "body": "Excelente 👍💯💯",
+      "date": "1784423127",
+      "territory": "es",
+      "proposed_response": "",
+      "approved": false
+    }
+  ]
+}

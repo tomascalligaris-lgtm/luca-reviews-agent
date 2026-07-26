@@ -1,0 +1,93 @@
+{
+  "date": "2026-07-26",
+  "generated_at": "2026-07-26T12:59:58.836204",
+  "total_reviews": 7,
+  "ios_count": 0,
+  "android_count": 7,
+  "items": [
+    {
+      "platform": "android",
+      "id": "a0dd3846-687a-4bed-924f-a2ce5f20480f",
+      "author": "José Fernando Zuniga",
+      "rating": 1,
+      "title": "",
+      "body": "el Código de verificación de mensajes no llegó nunca, así que no pude acceder intente con otro número y aún así nunca llegó el Código en Honduras",
+      "date": "1785003845",
+      "territory": "es",
+      "proposed_response": "",
+      "approved": false
+    },
+    {
+      "platform": "android",
+      "id": "fc0d72f2-bc7f-4b69-9306-c25bb8d6b152",
+      "author": "Juliiocuel Cueloo",
+      "rating": 5,
+      "title": "",
+      "body": "TENGO BIBLIA LEO HA DIARIO",
+      "date": "1785024251",
+      "territory": "es",
+      "proposed_response": "",
+      "approved": false
+    },
+    {
+      "platform": "android",
+      "id": "509b12c0-9cc2-4db5-9a3e-48b0987a9896",
+      "author": "Abril Serpa",
+      "rating": 5,
+      "title": "",
+      "body": "Estoy probando la app, me encanta 😄",
+      "date": "1784992619",
+      "territory": "es",
+      "proposed_response": "",
+      "approved": false
+    },
+    {
+      "platform": "android",
+      "id": "628b5f5a-f779-477b-ae64-1dff5cca06c8",
+      "author": "Ronel Estrada Hjuelos",
+      "rating": 5,
+      "title": "",
+      "body": "está App funciona trabaja brinda sus servicios al país Cuba 🇨🇺sin restricción se puede usar desde Cuba. información por favor",
+      "date": "1784732697",
+      "territory": "es",
+      "proposed_response": "",
+      "approved": false
+    },
+    {
+      "platform": "android",
+      "id": "7851e97b-8587-4471-8d89-19d956aa8327",
+      "author": "Rafael Coutte",
+      "rating": 5,
+      "title": "",
+      "body": "real",
+      "date": "1784544592",
+      "territory": "es",
+      "proposed_response": "",
+      "approved": false
+    },
+    {
+      "platform": "android",
+      "id": "baf2681a-2f34-487d-8d84-a9aea59dd920",
+      "author": "Diego Isaac",
+      "rating": 5,
+      "title": "",
+      "body": "buena",
+      "date": "1784483424",
+      "territory": "es",
+      "proposed_response": "",
+      "approved": false
+    },
+    {
+      "platform": "android",
+      "id": "84679675-25e0-4230-8efc-ed50607ffcae",
+      "author": "José Ever Miranda Quintero",
+      "rating": 5,
+      "title": "",
+      "body": "España 2 y Argentina 1",
+      "date": "1784479983",
+      "territory": "es",
+      "proposed_response": "",
+      "approved": false
+    }
+  ]
+}

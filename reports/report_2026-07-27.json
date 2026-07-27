@@ -1,0 +1,57 @@
+{
+  "date": "2026-07-27",
+  "generated_at": "2026-07-27T14:11:46.202115",
+  "total_reviews": 4,
+  "ios_count": 0,
+  "android_count": 4,
+  "items": [
+    {
+      "platform": "android",
+      "id": "a0dd3846-687a-4bed-924f-a2ce5f20480f",
+      "author": "José Fernando Zuniga",
+      "rating": 1,
+      "title": "",
+      "body": "el Código de verificación de mensajes no llegó nunca, así que no pude acceder intente con otro número y aún así nunca llegó el Código en Honduras",
+      "date": "1785003845",
+      "territory": "es",
+      "proposed_response": "",
+      "approved": false
+    },
+    {
+      "platform": "android",
+      "id": "9d6bd1e1-1987-4c04-9d11-d6740be36cdf",
+      "author": "Jose Galindo",
+      "rating": 4,
+      "title": "",
+      "body": "muy buena opción para ahorrar.",
+      "date": "1785150724",
+      "territory": "es",
+      "proposed_response": "",
+      "approved": false
+    },
+    {
+      "platform": "android",
+      "id": "509b12c0-9cc2-4db5-9a3e-48b0987a9896",
+      "author": "Abril Serpa",
+      "rating": 5,
+      "title": "",
+      "body": "Estoy probando la app, me encanta 😄",
+      "date": "1784992619",
+      "territory": "es",
+      "proposed_response": "",
+      "approved": false
+    },
+    {
+      "platform": "android",
+      "id": "628b5f5a-f779-477b-ae64-1dff5cca06c8",
+      "author": "Ronel Estrada Hjuelos",
+      "rating": 5,
+      "title": "",
+      "body": "está App funciona trabaja brinda sus servicios al país Cuba 🇨🇺sin restricción se puede usar desde Cuba. información por favor",
+      "date": "1784732697",
+      "territory": "es",
+      "proposed_response": "",
+      "approved": false
+    }
+  ]
+}

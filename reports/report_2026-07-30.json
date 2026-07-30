@@ -1,0 +1,69 @@
+{
+  "date": "2026-07-30",
+  "generated_at": "2026-07-30T13:28:46.233025",
+  "total_reviews": 5,
+  "ios_count": 0,
+  "android_count": 5,
+  "items": [
+    {
+      "platform": "android",
+      "id": "81a0a71a-9cc7-4fea-b9bb-507b34224434",
+      "author": "José Rangel",
+      "rating": 1,
+      "title": "",
+      "body": "estaba tratando de crear la cuenta en dólares y ahora se queda en negro la aplicación",
+      "date": "1785413988",
+      "territory": "es",
+      "proposed_response": "",
+      "approved": false
+    },
+    {
+      "platform": "android",
+      "id": "a0dd3846-687a-4bed-924f-a2ce5f20480f",
+      "author": "José Fernando Zuniga",
+      "rating": 1,
+      "title": "",
+      "body": "el Código de verificación de mensajes no llegó nunca, así que no pude acceder intente con otro número y aún así nunca llegó el Código en Honduras",
+      "date": "1785003845",
+      "territory": "es",
+      "proposed_response": "",
+      "approved": false
+    },
+    {
+      "platform": "android",
+      "id": "9d6bd1e1-1987-4c04-9d11-d6740be36cdf",
+      "author": "Jose Galindo",
+      "rating": 4,
+      "title": "",
+      "body": "muy buena opción para ahorrar.",
+      "date": "1785150724",
+      "territory": "es",
+      "proposed_response": "",
+      "approved": false
+    },
+    {
+      "platform": "android",
+      "id": "014b03ce-8445-4f27-acbe-5e2ab83709ba",
+      "author": "Antonio amaro",
+      "rating": 5,
+      "title": "",
+      "body": "excelente aplicacion",
+      "date": "1785252889",
+      "territory": "es",
+      "proposed_response": "",
+      "approved": false
+    },
+    {
+      "platform": "android",
+      "id": "509b12c0-9cc2-4db5-9a3e-48b0987a9896",
+      "author": "Abril Serpa",
+      "rating": 5,
+      "title": "",
+      "body": "Estoy probando la app, me encanta 😄",
+      "date": "1784992619",
+      "territory": "es",
+      "proposed_response": "",
+      "approved": false
+    }
+  ]
+}

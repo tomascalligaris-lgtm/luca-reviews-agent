@@ -1,0 +1,153 @@
+{
+  "date": "2026-08-04",
+  "generated_at": "2026-08-04T13:49:02.920751",
+  "total_reviews": 12,
+  "ios_count": 0,
+  "android_count": 12,
+  "items": [
+    {
+      "platform": "android",
+      "id": "cd21a119-1465-4691-af34-114bf0842a9e",
+      "author": "Jose Pereira",
+      "rating": 1,
+      "title": "",
+      "body": "No sirve, la parte de cuenta en USD se queda en gris y te saca de la app. La reinstale para ver si se arreglaba, ahora le doy restaurar desde la nube y da error",
+      "date": "1785547863",
+      "territory": "es",
+      "proposed_response": "",
+      "approved": false
+    },
+    {
+      "platform": "android",
+      "id": "81a0a71a-9cc7-4fea-b9bb-507b34224434",
+      "author": "José Rangel",
+      "rating": 1,
+      "title": "",
+      "body": "estaba tratando de crear la cuenta en dólares y ahora se queda en negro la aplicación",
+      "date": "1785413988",
+      "territory": "es",
+      "proposed_response": "",
+      "approved": false
+    },
+    {
+      "platform": "android",
+      "id": "3c559c4c-9f4f-4100-a9f2-a4e6041b7f43",
+      "author": "Virna Rosazza Vergara",
+      "rating": 4,
+      "title": "",
+      "body": "Práctica y funcional",
+      "date": "1785544268",
+      "territory": "es",
+      "proposed_response": "",
+      "approved": false
+    },
+    {
+      "platform": "android",
+      "id": "e7b04631-a4c2-44ac-82b4-a44602441371",
+      "author": "Ricardo Rocha",
+      "rating": 4,
+      "title": "",
+      "body": "muy bien 👍",
+      "date": "1785451010",
+      "territory": "es",
+      "proposed_response": "",
+      "approved": false
+    },
+    {
+      "platform": "android",
+      "id": "72fa9c56-f63d-4253-8c23-0ba6b172b527",
+      "author": "Jafet Nuñez",
+      "rating": 5,
+      "title": "",
+      "body": "genial",
+      "date": "1785724880",
+      "territory": "es",
+      "proposed_response": "",
+      "approved": false
+    },
+    {
+      "platform": "android",
+      "id": "e5d949c3-4e4c-43c4-b384-26a749615faf",
+      "author": "francisco hernan chamorro sanabria",
+      "rating": 5,
+      "title": "",
+      "body": "Buenísimo",
+      "date": "1785545341",
+      "territory": "es",
+      "proposed_response": "",
+      "approved": false
+    },
+    {
+      "platform": "android",
+      "id": "02e53e07-360d-4fb7-98d1-b36af4c61cee",
+      "author": "Hugo Aleman Py",
+      "rating": 5,
+      "title": "",
+      "body": "excelente app y muy seguro",
+      "date": "1785541683",
+      "territory": "es",
+      "proposed_response": "",
+      "approved": false
+    },
+    {
+      "platform": "android",
+      "id": "3ae9008e-4d68-424a-a2d6-286107e870e7",
+      "author": "Marcelo Sanchez",
+      "rating": 5,
+      "title": "",
+      "body": "exelente",
+      "date": "1785538010",
+      "territory": "es",
+      "proposed_response": "",
+      "approved": false
+    },
+    {
+      "platform": "android",
+      "id": "c86906a5-5785-4e81-ac16-8f65c1fdc7ec",
+      "author": "Alam Monasterio",
+      "rating": 5,
+      "title": "",
+      "body": "buena",
+      "date": "1785512419",
+      "territory": "es",
+      "proposed_response": "",
+      "approved": false
+    },
+    {
+      "platform": "android",
+      "id": "4baa7362-9987-460f-abfe-6af745d7530d",
+      "author": "Marian Nazareth",
+      "rating": 5,
+      "title": "",
+      "body": "excelente",
+      "date": "1785465956",
+      "territory": "es",
+      "proposed_response": "",
+      "approved": false
+    },
+    {
+      "platform": "android",
+      "id": "4421bece-ec67-4aac-bbf2-905ad606356e",
+      "author": "Tomás Martínez",
+      "rating": 5,
+      "title": "",
+      "body": "exelente aplicación... me gusta porque veo que es facil de usar...",
+      "date": "1785444249",
+      "territory": "es",
+      "proposed_response": "",
+      "approved": false
+    },
+    {
+      "platform": "android",
+      "id": "014b03ce-8445-4f27-acbe-5e2ab83709ba",
+      "author": "Antonio amaro",
+      "rating": 5,
+      "title": "",
+      "body": "excelente aplicacion",
+      "date": "1785252889",
+      "territory": "es",
+      "proposed_response": "",
+      "approved": false
+    }
+  ]
+}

@@ -1,0 +1,117 @@
+{
+  "date": "2026-08-07",
+  "generated_at": "2026-08-07T12:41:18.224680",
+  "total_reviews": 9,
+  "ios_count": 0,
+  "android_count": 9,
+  "items": [
+    {
+      "platform": "android",
+      "id": "6b344bee-4e0e-4f70-b138-4e504365177d",
+      "author": "PEDRO RODRIGUEZ PEÑALOZA",
+      "rating": 1,
+      "title": "",
+      "body": "muy poca experiencia",
+      "date": "1785920356",
+      "territory": "es",
+      "proposed_response": "",
+      "approved": false
+    },
+    {
+      "platform": "android",
+      "id": "cd21a119-1465-4691-af34-114bf0842a9e",
+      "author": "Jose Pereira",
+      "rating": 1,
+      "title": "",
+      "body": "No sirve, la parte de cuenta en USD se queda en gris y te saca de la app. La reinstale para ver si se arreglaba, ahora le doy restaurar desde la nube y da error",
+      "date": "1785547863",
+      "territory": "es",
+      "proposed_response": "",
+      "approved": false
+    },
+    {
+      "platform": "android",
+      "id": "3c559c4c-9f4f-4100-a9f2-a4e6041b7f43",
+      "author": "Virna Rosazza Vergara",
+      "rating": 4,
+      "title": "",
+      "body": "Práctica y funcional",
+      "date": "1785544268",
+      "territory": "es",
+      "proposed_response": "",
+      "approved": false
+    },
+    {
+      "platform": "android",
+      "id": "e8947e90-4daa-425f-b6a6-21d36188ef8f",
+      "author": "Cristobalnicolas Alegre",
+      "rating": 5,
+      "title": "",
+      "body": "interesante",
+      "date": "1785917459",
+      "territory": "es",
+      "proposed_response": "",
+      "approved": false
+    },
+    {
+      "platform": "android",
+      "id": "72fa9c56-f63d-4253-8c23-0ba6b172b527",
+      "author": "Jafet Nuñez",
+      "rating": 5,
+      "title": "",
+      "body": "genial",
+      "date": "1785724880",
+      "territory": "es",
+      "proposed_response": "",
+      "approved": false
+    },
+    {
+      "platform": "android",
+      "id": "e5d949c3-4e4c-43c4-b384-26a749615faf",
+      "author": "francisco hernan chamorro sanabria",
+      "rating": 5,
+      "title": "",
+      "body": "Buenísimo",
+      "date": "1785545341",
+      "territory": "es",
+      "proposed_response": "",
+      "approved": false
+    },
+    {
+      "platform": "android",
+      "id": "02e53e07-360d-4fb7-98d1-b36af4c61cee",
+      "author": "Hugo Aleman Py",
+      "rating": 5,
+      "title": "",
+      "body": "excelente app y muy seguro",
+      "date": "1785541683",
+      "territory": "es",
+      "proposed_response": "",
+      "approved": false
+    },
+    {
+      "platform": "android",
+      "id": "3ae9008e-4d68-424a-a2d6-286107e870e7",
+      "author": "Marcelo Sanchez",
+      "rating": 5,
+      "title": "",
+      "body": "exelente",
+      "date": "1785538010",
+      "territory": "es",
+      "proposed_response": "",
+      "approved": false
+    },
+    {
+      "platform": "android",
+      "id": "c86906a5-5785-4e81-ac16-8f65c1fdc7ec",
+      "author": "Alam Monasterio",
+      "rating": 5,
+      "title": "",
+      "body": "buena",
+      "date": "1785512419",
+      "territory": "es",
+      "proposed_response": "",
+      "approved": false
+    }
+  ]
+}

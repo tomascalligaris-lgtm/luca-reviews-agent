@@ -1,0 +1,57 @@
+{
+  "date": "2026-08-08",
+  "generated_at": "2026-08-08T12:28:21.356815",
+  "total_reviews": 4,
+  "ios_count": 0,
+  "android_count": 4,
+  "items": [
+    {
+      "platform": "android",
+      "id": "6b344bee-4e0e-4f70-b138-4e504365177d",
+      "author": "PEDRO RODRIGUEZ PEÑALOZA",
+      "rating": 1,
+      "title": "",
+      "body": "muy poca experiencia",
+      "date": "1785920356",
+      "territory": "es",
+      "proposed_response": "",
+      "approved": false
+    },
+    {
+      "platform": "android",
+      "id": "fde6c4a1-e7a8-4fd3-85ea-d02907a0dfa3",
+      "author": "Rocio Burgos Luraghi",
+      "rating": 5,
+      "title": "",
+      "body": "Sali de mi cta de gmail y mis aplicaciones gordo Gilberto. Tqm y a tus hijas y a Thiago 💕 siempre seran mis bb. Los recuerdo siempre como a tus hermanos , a Rocki y a tu papa.Te deseo lo mejor mi gordo hermoso 💚 💕",
+      "date": "1786163643",
+      "territory": "es",
+      "proposed_response": "",
+      "approved": false
+    },
+    {
+      "platform": "android",
+      "id": "e8947e90-4daa-425f-b6a6-21d36188ef8f",
+      "author": "Cristobalnicolas Alegre",
+      "rating": 5,
+      "title": "",
+      "body": "interesante",
+      "date": "1785917459",
+      "territory": "es",
+      "proposed_response": "",
+      "approved": false
+    },
+    {
+      "platform": "android",
+      "id": "72fa9c56-f63d-4253-8c23-0ba6b172b527",
+      "author": "Jafet Nuñez",
+      "rating": 5,
+      "title": "",
+      "body": "genial",
+      "date": "1785724880",
+      "territory": "es",
+      "proposed_response": "",
+      "approved": false
+    }
+  ]
+}

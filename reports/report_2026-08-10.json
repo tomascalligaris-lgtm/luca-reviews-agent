@@ -1,0 +1,57 @@
+{
+  "date": "2026-08-10",
+  "generated_at": "2026-08-10T12:46:21.567290",
+  "total_reviews": 4,
+  "ios_count": 0,
+  "android_count": 4,
+  "items": [
+    {
+      "platform": "android",
+      "id": "98f45e2e-e4c9-4458-be72-b20241a9d33e",
+      "author": "Estefany Montes",
+      "rating": 1,
+      "title": "",
+      "body": "mala hay que invertir",
+      "date": "1786315239",
+      "territory": "es",
+      "proposed_response": "",
+      "approved": false
+    },
+    {
+      "platform": "android",
+      "id": "6b344bee-4e0e-4f70-b138-4e504365177d",
+      "author": "PEDRO RODRIGUEZ PEÑALOZA",
+      "rating": 1,
+      "title": "",
+      "body": "muy poca experiencia",
+      "date": "1785920356",
+      "territory": "es",
+      "proposed_response": "",
+      "approved": false
+    },
+    {
+      "platform": "android",
+      "id": "6fbb3757-895f-42ab-89a7-2b7ae6cb70e2",
+      "author": "Pedro luis Olmedo fleitas",
+      "rating": 5,
+      "title": "",
+      "body": "super",
+      "date": "1786316436",
+      "territory": "es",
+      "proposed_response": "",
+      "approved": false
+    },
+    {
+      "platform": "android",
+      "id": "e8947e90-4daa-425f-b6a6-21d36188ef8f",
+      "author": "Cristobalnicolas Alegre",
+      "rating": 5,
+      "title": "",
+      "body": "interesante",
+      "date": "1785917459",
+      "territory": "es",
+      "proposed_response": "",
+      "approved": false
+    }
+  ]
+}

@@ -1,0 +1,57 @@
+{
+  "date": "2026-08-15",
+  "generated_at": "2026-08-15T12:18:46.159392",
+  "total_reviews": 4,
+  "ios_count": 0,
+  "android_count": 4,
+  "items": [
+    {
+      "platform": "android",
+      "id": "98f45e2e-e4c9-4458-be72-b20241a9d33e",
+      "author": "Estefany Montes",
+      "rating": 1,
+      "title": "",
+      "body": "mala hay que invertir",
+      "date": "1786315239",
+      "territory": "es",
+      "proposed_response": "",
+      "approved": false
+    },
+    {
+      "platform": "android",
+      "id": "80e18356-4ecd-4551-84fd-3774593854f2",
+      "author": "Denis Linares",
+      "rating": 2,
+      "title": "",
+      "body": "Mala",
+      "date": "1786675974",
+      "territory": "es",
+      "proposed_response": "",
+      "approved": false
+    },
+    {
+      "platform": "android",
+      "id": "9bbfbbf7-ad7c-430d-86c2-025725ce1042",
+      "author": "Enoc Flores Sevilla",
+      "rating": 5,
+      "title": "",
+      "body": "uff recomiendo Luca es muy bueno",
+      "date": "1786731131",
+      "territory": "es",
+      "proposed_response": "",
+      "approved": false
+    },
+    {
+      "platform": "android",
+      "id": "6fbb3757-895f-42ab-89a7-2b7ae6cb70e2",
+      "author": "Pedro luis Olmedo fleitas",
+      "rating": 5,
+      "title": "",
+      "body": "super",
+      "date": "1786316436",
+      "territory": "es",
+      "proposed_response": "",
+      "approved": false
+    }
+  ]
+}

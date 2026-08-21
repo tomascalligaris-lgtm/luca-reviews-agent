@@ -1,0 +1,57 @@
+{
+  "date": "2026-08-21",
+  "generated_at": "2026-08-21T12:27:11.750704",
+  "total_reviews": 4,
+  "ios_count": 0,
+  "android_count": 4,
+  "items": [
+    {
+      "platform": "android",
+      "id": "7fb10e8c-7acb-45e6-8196-e9cefd30f7b6",
+      "author": "Erick Coronel",
+      "rating": 4,
+      "title": "",
+      "body": "Luca is an easy and secure way to get interest of money",
+      "date": "1787019976",
+      "territory": "en",
+      "proposed_response": "",
+      "approved": false
+    },
+    {
+      "platform": "android",
+      "id": "ff0b7a08-10b9-4114-9474-0645a4b6fe11",
+      "author": "trifi ayavi",
+      "rating": 5,
+      "title": "",
+      "body": "Deseo saber en cuenta me depositaron",
+      "date": "1786975764",
+      "territory": "es",
+      "proposed_response": "",
+      "approved": false
+    },
+    {
+      "platform": "android",
+      "id": "09e64f32-a34d-460e-ab4f-a6bf7956cf80",
+      "author": "Ararat Campos",
+      "rating": 5,
+      "title": "",
+      "body": "excelente",
+      "date": "1786935802",
+      "territory": "es",
+      "proposed_response": "",
+      "approved": false
+    },
+    {
+      "platform": "android",
+      "id": "9bbfbbf7-ad7c-430d-86c2-025725ce1042",
+      "author": "Enoc Flores Sevilla",
+      "rating": 5,
+      "title": "",
+      "body": "uff recomiendo Luca es muy bueno",
+      "date": "1786731131",
+      "territory": "es",
+      "proposed_response": "",
+      "approved": false
+    }
+  ]
+}

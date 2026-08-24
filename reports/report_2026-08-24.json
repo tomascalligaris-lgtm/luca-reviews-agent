@@ -1,0 +1,69 @@
+{
+  "date": "2026-08-24",
+  "generated_at": "2026-08-24T12:28:48.511642",
+  "total_reviews": 5,
+  "ios_count": 0,
+  "android_count": 5,
+  "items": [
+    {
+      "platform": "android",
+      "id": "449b1dae-4134-4db5-9bbe-ec9c06339d87",
+      "author": "omar gomez",
+      "rating": 1,
+      "title": "",
+      "body": "no me deja ingresar",
+      "date": "1787527021",
+      "territory": "es",
+      "proposed_response": "",
+      "approved": false
+    },
+    {
+      "platform": "android",
+      "id": "7fb10e8c-7acb-45e6-8196-e9cefd30f7b6",
+      "author": "Erick Coronel",
+      "rating": 4,
+      "title": "",
+      "body": "Luca is an easy and secure way to get interest of money",
+      "date": "1787019976",
+      "territory": "en",
+      "proposed_response": "",
+      "approved": false
+    },
+    {
+      "platform": "android",
+      "id": "52ddff39-ed4b-4fdd-ad12-ed3b9a8b22bc",
+      "author": "Elías Landaeta",
+      "rating": 5,
+      "title": "",
+      "body": "👍🏻",
+      "date": "1787507082",
+      "territory": "es",
+      "proposed_response": "",
+      "approved": false
+    },
+    {
+      "platform": "android",
+      "id": "700af7b5-7ea9-4f1f-9241-55be12e4f2dd",
+      "author": "Lucia patricia Trujillo guzman",
+      "rating": 5,
+      "title": "",
+      "body": "bueno",
+      "date": "1787498579",
+      "territory": "es",
+      "proposed_response": "",
+      "approved": false
+    },
+    {
+      "platform": "android",
+      "id": "ff0b7a08-10b9-4114-9474-0645a4b6fe11",
+      "author": "trifi ayavi",
+      "rating": 5,
+      "title": "",
+      "body": "Deseo saber en cuenta me depositaron",
+      "date": "1786975764",
+      "territory": "es",
+      "proposed_response": "",
+      "approved": false
+    }
+  ]
+}

@@ -1,0 +1,81 @@
+{
+  "date": "2026-08-28",
+  "generated_at": "2026-08-28T21:36:05.136515",
+  "total_reviews": 6,
+  "ios_count": 0,
+  "android_count": 6,
+  "items": [
+    {
+      "platform": "android",
+      "id": "ad374226-dc5d-4f50-8415-0a7141ea9e21",
+      "author": "Estel Limon",
+      "rating": 3,
+      "title": "",
+      "body": "Lucianowande aAntequera",
+      "date": "1787947931",
+      "territory": "es",
+      "proposed_response": "",
+      "approved": false
+    },
+    {
+      "platform": "android",
+      "id": "24201710-f626-40da-8294-2816fd712757",
+      "author": "Biznis pam Recharge",
+      "rating": 4,
+      "title": "",
+      "body": "vérification identité facile sans difficulté",
+      "date": "1787629685",
+      "territory": "fr",
+      "proposed_response": "",
+      "approved": false
+    },
+    {
+      "platform": "android",
+      "id": "bb37f756-f833-45c4-952c-8db65958d520",
+      "author": "Luis Tumbaco",
+      "rating": 5,
+      "title": "",
+      "body": "yeofanes luis miranda tunbaco",
+      "date": "1787863010",
+      "territory": "es",
+      "proposed_response": "",
+      "approved": false
+    },
+    {
+      "platform": "android",
+      "id": "990d6346-0b95-47b0-8a2b-3524d88fdc93",
+      "author": "Rodrigo Farfan",
+      "rating": 5,
+      "title": "",
+      "body": "excelente",
+      "date": "1787788024",
+      "territory": "es",
+      "proposed_response": "",
+      "approved": false
+    },
+    {
+      "platform": "android",
+      "id": "30f2b8c5-f5c7-462a-b3da-30417022c131",
+      "author": "A A",
+      "rating": 5,
+      "title": "",
+      "body": "se diferencian en muchas formas de sus demás competidores",
+      "date": "1787601218",
+      "territory": "es",
+      "proposed_response": "",
+      "approved": false
+    },
+    {
+      "platform": "android",
+      "id": "d3c921fc-17bb-4df5-aa7c-902f4c4a71e6",
+      "author": "Oliver Romero",
+      "rating": 5,
+      "title": "",
+      "body": "Excelente app para que una vez por todas podamos utilizar nuestras stablecoins en el comercio mundial, con la excelente colaboración del procesador de pagos VISA.",
+      "date": "1787599189",
+      "territory": "es",
+      "proposed_response": "",
+      "approved": false
+    }
+  ]
+}

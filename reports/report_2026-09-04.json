@@ -1,0 +1,105 @@
+{
+  "date": "2026-09-04",
+  "generated_at": "2026-09-04T15:28:25.848234",
+  "total_reviews": 8,
+  "ios_count": 0,
+  "android_count": 8,
+  "items": [
+    {
+      "platform": "android",
+      "id": "73fd82a2-110a-4b54-be5c-3521bdf42872",
+      "author": "Geiner Calderón",
+      "rating": 1,
+      "title": "",
+      "body": "Pero aplicación que he visto , además el servicio al cliente muy malo, responden cuando les da la gana y cuando uno le dice el problema nunca le responden",
+      "date": "1788449578",
+      "territory": "es",
+      "proposed_response": "",
+      "approved": false
+    },
+    {
+      "platform": "android",
+      "id": "02128337-f9ea-4d34-81de-3d87909c315e",
+      "author": "Keidel Gaviria",
+      "rating": 1,
+      "title": "",
+      "body": "Estuve haciendo un depósito de prueba para ver el funcionamiento de la app, antes de intentar con un monto mayor. Cuando volví a hacer un depósito no se vio reflejado en el balance. El chat de soporte que tienen es una IA que no ayuda en nada y no puedes hablar con una persona real. Escribí por correo y tampoco dan respuesta. Pésimo soporte, no lo recomiendo.",
+      "date": "1788397418",
+      "territory": "es",
+      "proposed_response": "",
+      "approved": false
+    },
+    {
+      "platform": "android",
+      "id": "27ebe1f6-787a-48cf-8753-7bb84e75bba8",
+      "author": "アンディクーシ",
+      "rating": 4,
+      "title": "",
+      "body": "le falta la posibilidad de comprar criptomonedas desde Luca por QR, desde cualquier banco o billetera virtual,",
+      "date": "1787967610",
+      "territory": "es",
+      "proposed_response": "",
+      "approved": false
+    },
+    {
+      "platform": "android",
+      "id": "0ce31f8b-a2e7-47c6-8d55-6e9357d901f7",
+      "author": "Nelson Espinola",
+      "rating": 5,
+      "title": "",
+      "body": "Bueno llena mis espectactivas",
+      "date": "1788520684",
+      "territory": "es",
+      "proposed_response": "",
+      "approved": false
+    },
+    {
+      "platform": "android",
+      "id": "6d888c47-7125-48af-aaaf-643415b75cbc",
+      "author": "Charlie Acosta",
+      "rating": 5,
+      "title": "",
+      "body": "excelente",
+      "date": "1788426764",
+      "territory": "es",
+      "proposed_response": "",
+      "approved": false
+    },
+    {
+      "platform": "android",
+      "id": "7bc3b03a-740e-4487-acdb-26ea714f6c06",
+      "author": "HEBERTO FUENMAYOR",
+      "rating": 5,
+      "title": "",
+      "body": "Excelente, desde Venezuela, esperando la llegada de la tarjeta y apertura de cuenta",
+      "date": "1788393510",
+      "territory": "es",
+      "proposed_response": "",
+      "approved": false
+    },
+    {
+      "platform": "android",
+      "id": "7649eb3d-8e6d-4686-8527-ac4fb85db07f",
+      "author": "Misael Romero",
+      "rating": 5,
+      "title": "",
+      "body": "Increíble está aplicación hace generar buenos ingresos",
+      "date": "1787971701",
+      "territory": "es",
+      "proposed_response": "",
+      "approved": false
+    },
+    {
+      "platform": "android",
+      "id": "5ccc9eba-8914-43b5-b2f7-14c30d6752e7",
+      "author": "henry ayala",
+      "rating": 5,
+      "title": "",
+      "body": "es algo novedoso para mí y probar es mi intención .espero me sea de gran utilidad.en caso de ser aceptado",
+      "date": "1787968280",
+      "territory": "es",
+      "proposed_response": "",
+      "approved": false
+    }
+  ]
+}

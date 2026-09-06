@@ -1,0 +1,117 @@
+{
+  "date": "2026-09-06",
+  "generated_at": "2026-09-06T14:39:28.269611",
+  "total_reviews": 9,
+  "ios_count": 0,
+  "android_count": 9,
+  "items": [
+    {
+      "platform": "android",
+      "id": "73fd82a2-110a-4b54-be5c-3521bdf42872",
+      "author": "Geiner Calderón",
+      "rating": 1,
+      "title": "",
+      "body": "Pero aplicación que he visto , además el servicio al cliente muy malo, responden cuando les da la gana y cuando uno le dice el problema nunca le responden",
+      "date": "1788449578",
+      "territory": "es",
+      "proposed_response": "",
+      "approved": false
+    },
+    {
+      "platform": "android",
+      "id": "02128337-f9ea-4d34-81de-3d87909c315e",
+      "author": "Keidel Gaviria",
+      "rating": 1,
+      "title": "",
+      "body": "Estuve haciendo un depósito de prueba para ver el funcionamiento de la app, antes de intentar con un monto mayor. Cuando volví a hacer un depósito no se vio reflejado en el balance. El chat de soporte que tienen es una IA que no ayuda en nada y no puedes hablar con una persona real. Escribí por correo y tampoco dan respuesta. Pésimo soporte, no lo recomiendo.",
+      "date": "1788397418",
+      "territory": "es",
+      "proposed_response": "",
+      "approved": false
+    },
+    {
+      "platform": "android",
+      "id": "c008b3a9-5358-4065-bc64-bc38fe31f63a",
+      "author": "Mary Condori",
+      "rating": 3,
+      "title": "",
+      "body": "quiero ASER la prueba bendiciones 🙏",
+      "date": "1788614223",
+      "territory": "es",
+      "proposed_response": "",
+      "approved": false
+    },
+    {
+      "platform": "android",
+      "id": "98263b0d-a454-492f-aac8-3b36ef894d80",
+      "author": "Elixander Landaeta",
+      "rating": 4,
+      "title": "",
+      "body": "muy buena la app le falta más la tarjeta virtual para Venezuela...",
+      "date": "1788699465",
+      "territory": "es",
+      "proposed_response": "",
+      "approved": false
+    },
+    {
+      "platform": "android",
+      "id": "438735fc-a579-4286-a88a-d6c961f1eb2d",
+      "author": "Fabio Usuga",
+      "rating": 5,
+      "title": "",
+      "body": "es genial",
+      "date": "1788680292",
+      "territory": "es",
+      "proposed_response": "",
+      "approved": false
+    },
+    {
+      "platform": "android",
+      "id": "450cde24-bd89-48e6-8f00-c6896b980154",
+      "author": "Willian Figueroa Frey",
+      "rating": 5,
+      "title": "",
+      "body": "cinco estrellas más información",
+      "date": "1788629122",
+      "territory": "es",
+      "proposed_response": "",
+      "approved": false
+    },
+    {
+      "platform": "android",
+      "id": "0ce31f8b-a2e7-47c6-8d55-6e9357d901f7",
+      "author": "Nelson Espinola",
+      "rating": 5,
+      "title": "",
+      "body": "Bueno llena mis espectactivas",
+      "date": "1788520684",
+      "territory": "es",
+      "proposed_response": "",
+      "approved": false
+    },
+    {
+      "platform": "android",
+      "id": "6d888c47-7125-48af-aaaf-643415b75cbc",
+      "author": "Charlie Acosta",
+      "rating": 5,
+      "title": "",
+      "body": "excelente",
+      "date": "1788426764",
+      "territory": "es",
+      "proposed_response": "",
+      "approved": false
+    },
+    {
+      "platform": "android",
+      "id": "7bc3b03a-740e-4487-acdb-26ea714f6c06",
+      "author": "HEBERTO FUENMAYOR",
+      "rating": 5,
+      "title": "",
+      "body": "Excelente, desde Venezuela, esperando la llegada de la tarjeta y apertura de cuenta",
+      "date": "1788393510",
+      "territory": "es",
+      "proposed_response": "",
+      "approved": false
+    }
+  ]
+}

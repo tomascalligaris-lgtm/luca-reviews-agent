@@ -1,0 +1,129 @@
+{
+  "date": "2026-09-10",
+  "generated_at": "2026-09-10T15:31:53.549568",
+  "total_reviews": 10,
+  "ios_count": 0,
+  "android_count": 10,
+  "items": [
+    {
+      "platform": "android",
+      "id": "73fd82a2-110a-4b54-be5c-3521bdf42872",
+      "author": "Geiner Calderón",
+      "rating": 1,
+      "title": "",
+      "body": "Pero aplicación que he visto , además el servicio al cliente muy malo, responden cuando les da la gana y cuando uno le dice el problema nunca le responden",
+      "date": "1788449578",
+      "territory": "es",
+      "proposed_response": "",
+      "approved": false
+    },
+    {
+      "platform": "android",
+      "id": "c008b3a9-5358-4065-bc64-bc38fe31f63a",
+      "author": "Mary Condori",
+      "rating": 3,
+      "title": "",
+      "body": "quiero ASER la prueba bendiciones 🙏",
+      "date": "1788614223",
+      "territory": "es",
+      "proposed_response": "",
+      "approved": false
+    },
+    {
+      "platform": "android",
+      "id": "98263b0d-a454-492f-aac8-3b36ef894d80",
+      "author": "Elixander Landaeta",
+      "rating": 4,
+      "title": "",
+      "body": "muy buena la app le falta más la tarjeta virtual para Venezuela...",
+      "date": "1788699465",
+      "territory": "es",
+      "proposed_response": "",
+      "approved": false
+    },
+    {
+      "platform": "android",
+      "id": "656ff587-1dc3-4278-b579-7e79218f7e6b",
+      "author": "Hortencia Rojas Chavez",
+      "rating": 5,
+      "title": "",
+      "body": "es buena ofrece beneficios los de crédito solo que sean de berdad para solicitar",
+      "date": "1788993196",
+      "territory": "es",
+      "proposed_response": "",
+      "approved": false
+    },
+    {
+      "platform": "android",
+      "id": "307b610a-cd4a-4f60-b769-362dda9bfde3",
+      "author": "Tomasa Bogado",
+      "rating": 5,
+      "title": "",
+      "body": "Ecelente",
+      "date": "1788977118",
+      "territory": "es",
+      "proposed_response": "",
+      "approved": false
+    },
+    {
+      "platform": "android",
+      "id": "2e00bb47-526c-4c78-acf2-391fd7f0395e",
+      "author": "Marina Huanca",
+      "rating": 5,
+      "title": "",
+      "body": "DESEO",
+      "date": "1788955875",
+      "territory": "es",
+      "proposed_response": "",
+      "approved": false
+    },
+    {
+      "platform": "android",
+      "id": "acd9d25e-302e-4571-aac9-af6b83a3ebca",
+      "author": "Wilmar Rodriguez",
+      "rating": 5,
+      "title": "",
+      "body": "esbueno megusta",
+      "date": "1788739429",
+      "territory": "es",
+      "proposed_response": "",
+      "approved": false
+    },
+    {
+      "platform": "android",
+      "id": "438735fc-a579-4286-a88a-d6c961f1eb2d",
+      "author": "Fabio Usuga",
+      "rating": 5,
+      "title": "",
+      "body": "es genial",
+      "date": "1788680292",
+      "territory": "es",
+      "proposed_response": "",
+      "approved": false
+    },
+    {
+      "platform": "android",
+      "id": "450cde24-bd89-48e6-8f00-c6896b980154",
+      "author": "Willian Figueroa Frey",
+      "rating": 5,
+      "title": "",
+      "body": "cinco estrellas más información",
+      "date": "1788629122",
+      "territory": "es",
+      "proposed_response": "",
+      "approved": false
+    },
+    {
+      "platform": "android",
+      "id": "0ce31f8b-a2e7-47c6-8d55-6e9357d901f7",
+      "author": "Nelson Espinola",
+      "rating": 5,
+      "title": "",
+      "body": "Bueno llena mis espectactivas",
+      "date": "1788520684",
+      "territory": "es",
+      "proposed_response": "",
+      "approved": false
+    }
+  ]
+}

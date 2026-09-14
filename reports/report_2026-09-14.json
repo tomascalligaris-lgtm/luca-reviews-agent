@@ -1,0 +1,57 @@
+{
+  "date": "2026-09-14",
+  "generated_at": "2026-09-14T17:16:52.128795",
+  "total_reviews": 4,
+  "ios_count": 0,
+  "android_count": 4,
+  "items": [
+    {
+      "platform": "android",
+      "id": "5f5e4e70-41a9-425c-a0da-f0a48bcf89c3",
+      "author": "JuanMa",
+      "rating": 4,
+      "title": "",
+      "body": "Hola, me gusta la app pero sería bueno que la interfaz tenga la posibilidad de verse en MODO OSCURO, para la visual y preferencia de muchos de nosotros es agresivo tener un fondo tan claro sin poder cambiarlo.",
+      "date": "1789223721",
+      "territory": "es",
+      "proposed_response": "",
+      "approved": false
+    },
+    {
+      "platform": "android",
+      "id": "656ff587-1dc3-4278-b579-7e79218f7e6b",
+      "author": "Hortencia Rojas Chavez",
+      "rating": 5,
+      "title": "",
+      "body": "es buena ofrece beneficios los de crédito solo que sean de berdad para solicitar",
+      "date": "1788993196",
+      "territory": "es",
+      "proposed_response": "",
+      "approved": false
+    },
+    {
+      "platform": "android",
+      "id": "307b610a-cd4a-4f60-b769-362dda9bfde3",
+      "author": "Tomasa Bogado",
+      "rating": 5,
+      "title": "",
+      "body": "Ecelente",
+      "date": "1788977118",
+      "territory": "es",
+      "proposed_response": "",
+      "approved": false
+    },
+    {
+      "platform": "android",
+      "id": "2e00bb47-526c-4c78-acf2-391fd7f0395e",
+      "author": "Marina Huanca",
+      "rating": 5,
+      "title": "",
+      "body": "DESEO",
+      "date": "1788955875",
+      "territory": "es",
+      "proposed_response": "",
+      "approved": false
+    }
+  ]
+}

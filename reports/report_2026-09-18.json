@@ -1,0 +1,81 @@
+{
+  "date": "2026-09-18",
+  "generated_at": "2026-09-18T15:29:35.257952",
+  "total_reviews": 6,
+  "ios_count": 1,
+  "android_count": 5,
+  "items": [
+    {
+      "platform": "android",
+      "id": "511a22d3-777b-4e97-9541-f74d189a710d",
+      "author": "Henry Meneses",
+      "rating": 4,
+      "title": "",
+      "body": "no e recibido nada adónde puedo ir a reclamar lo mío esperorespuesta",
+      "date": "1789580620",
+      "territory": "es",
+      "proposed_response": "",
+      "approved": false
+    },
+    {
+      "platform": "android",
+      "id": "5f5e4e70-41a9-425c-a0da-f0a48bcf89c3",
+      "author": "JuanMa",
+      "rating": 4,
+      "title": "",
+      "body": "Hola, me gusta la app pero sería bueno que la interfaz tenga la posibilidad de verse en MODO OSCURO, para la visual y preferencia de muchos de nosotros es agresivo tener un fondo tan claro sin poder cambiarlo.",
+      "date": "1789223721",
+      "territory": "es",
+      "proposed_response": "",
+      "approved": false
+    },
+    {
+      "platform": "ios",
+      "id": "00000192-9a99-fb03-63af-134e00000000",
+      "author": "Ivanaalinax",
+      "rating": 5,
+      "title": "Excelente",
+      "body": "10",
+      "date": "2026-09-16T10:18:41-07:00",
+      "territory": "ARG",
+      "proposed_response": "",
+      "approved": false
+    },
+    {
+      "platform": "android",
+      "id": "6e88c2f8-fd45-435a-8bff-6cf779d58376",
+      "author": "Nils",
+      "rating": 5,
+      "title": "",
+      "body": "Buenoooo",
+      "date": "1789619102",
+      "territory": "es",
+      "proposed_response": "",
+      "approved": false
+    },
+    {
+      "platform": "android",
+      "id": "2b122077-fe88-4bd1-bc1d-4c77fdee85de",
+      "author": "Alfredo",
+      "rating": 5,
+      "title": "",
+      "body": "no tengo trabajo soy familia umilde nesecito para una operación de catarata",
+      "date": "1789435534",
+      "territory": "es",
+      "proposed_response": "",
+      "approved": false
+    },
+    {
+      "platform": "android",
+      "id": "cf72d26b-bc46-4e7e-aae7-df14f2be4c3d",
+      "author": "Sandra Aguirre",
+      "rating": 5,
+      "title": "",
+      "body": "mermcanya",
+      "date": "1789428586",
+      "territory": "es",
+      "proposed_response": "",
+      "approved": false
+    }
+  ]
+}

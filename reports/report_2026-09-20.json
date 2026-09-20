@@ -1,0 +1,117 @@
+{
+  "date": "2026-09-20",
+  "generated_at": "2026-09-20T15:07:51.308332",
+  "total_reviews": 9,
+  "ios_count": 1,
+  "android_count": 8,
+  "items": [
+    {
+      "platform": "android",
+      "id": "9cf0135f-d346-461d-b7c8-c9b16ef53ecf",
+      "author": "Jorge Oviedo",
+      "rating": 4,
+      "title": "",
+      "body": "muy buena y sencilla",
+      "date": "1789751179",
+      "territory": "es",
+      "proposed_response": "",
+      "approved": false
+    },
+    {
+      "platform": "android",
+      "id": "59fb14ca-dd75-45bb-b7fe-ad783e99f9ef",
+      "author": "Dagni Palma",
+      "rating": 4,
+      "title": "",
+      "body": "muy buenos",
+      "date": "1789750191",
+      "territory": "es",
+      "proposed_response": "",
+      "approved": false
+    },
+    {
+      "platform": "android",
+      "id": "511a22d3-777b-4e97-9541-f74d189a710d",
+      "author": "Henry Meneses",
+      "rating": 4,
+      "title": "",
+      "body": "no e recibido nada adónde puedo ir a reclamar lo mío esperorespuesta",
+      "date": "1789580620",
+      "territory": "es",
+      "proposed_response": "",
+      "approved": false
+    },
+    {
+      "platform": "ios",
+      "id": "00000192-9a99-fb03-63af-134e00000000",
+      "author": "Ivanaalinax",
+      "rating": 5,
+      "title": "Excelente",
+      "body": "10",
+      "date": "2026-09-16T10:18:41-07:00",
+      "territory": "ARG",
+      "proposed_response": "",
+      "approved": false
+    },
+    {
+      "platform": "android",
+      "id": "0022b88e-2776-4985-96ea-b5762a55c624",
+      "author": "NELSON Elías López Castro",
+      "rating": 5,
+      "title": "",
+      "body": "Nesecito mis wasspp con mi respectivo perfil cada uno ósea en cada número mi WhatsApp",
+      "date": "1789861067",
+      "territory": "es",
+      "proposed_response": "",
+      "approved": false
+    },
+    {
+      "platform": "android",
+      "id": "9f45a658-f42b-4ed6-ac6e-e53e6fc48e70",
+      "author": "Eduardo Lima carlo",
+      "rating": 5,
+      "title": "",
+      "body": "rexcetoso",
+      "date": "1789856758",
+      "territory": "es",
+      "proposed_response": "",
+      "approved": false
+    },
+    {
+      "platform": "android",
+      "id": "6e88c2f8-fd45-435a-8bff-6cf779d58376",
+      "author": "Nils",
+      "rating": 5,
+      "title": "",
+      "body": "Buenoooo",
+      "date": "1789619102",
+      "territory": "es",
+      "proposed_response": "",
+      "approved": false
+    },
+    {
+      "platform": "android",
+      "id": "2b122077-fe88-4bd1-bc1d-4c77fdee85de",
+      "author": "Alfredo",
+      "rating": 5,
+      "title": "",
+      "body": "no tengo trabajo soy familia umilde nesecito para una operación de catarata",
+      "date": "1789435534",
+      "territory": "es",
+      "proposed_response": "",
+      "approved": false
+    },
+    {
+      "platform": "android",
+      "id": "cf72d26b-bc46-4e7e-aae7-df14f2be4c3d",
+      "author": "Sandra Aguirre",
+      "rating": 5,
+      "title": "",
+      "body": "mermcanya",
+      "date": "1789428586",
+      "territory": "es",
+      "proposed_response": "",
+      "approved": false
+    }
+  ]
+}

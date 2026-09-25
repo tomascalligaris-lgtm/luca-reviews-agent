@@ -1,0 +1,81 @@
+{
+  "date": "2026-09-25",
+  "generated_at": "2026-09-25T16:11:05.182438",
+  "total_reviews": 6,
+  "ios_count": 1,
+  "android_count": 5,
+  "items": [
+    {
+      "platform": "android",
+      "id": "9cf0135f-d346-461d-b7c8-c9b16ef53ecf",
+      "author": "Jorge Oviedo",
+      "rating": 4,
+      "title": "",
+      "body": "muy buena y sencilla",
+      "date": "1789751179",
+      "territory": "es",
+      "proposed_response": "",
+      "approved": false
+    },
+    {
+      "platform": "android",
+      "id": "59fb14ca-dd75-45bb-b7fe-ad783e99f9ef",
+      "author": "Dagni Palma",
+      "rating": 4,
+      "title": "",
+      "body": "muy buenos",
+      "date": "1789750191",
+      "territory": "es",
+      "proposed_response": "",
+      "approved": false
+    },
+    {
+      "platform": "ios",
+      "id": "00000192-9a99-fb03-63af-134e00000000",
+      "author": "Ivanaalinax",
+      "rating": 5,
+      "title": "Excelente",
+      "body": "10",
+      "date": "2026-09-16T10:18:41-07:00",
+      "territory": "ARG",
+      "proposed_response": "",
+      "approved": false
+    },
+    {
+      "platform": "android",
+      "id": "f2926d4e-a36c-49d5-9d16-322bf3411e11",
+      "author": "Carlos Sanchez cueto",
+      "rating": 5,
+      "title": "",
+      "body": "bueno",
+      "date": "1790180169",
+      "territory": "es",
+      "proposed_response": "",
+      "approved": false
+    },
+    {
+      "platform": "android",
+      "id": "0022b88e-2776-4985-96ea-b5762a55c624",
+      "author": "NELSON Elías López Castro",
+      "rating": 5,
+      "title": "",
+      "body": "Nesecito mis wasspp con mi respectivo perfil cada uno ósea en cada número mi WhatsApp",
+      "date": "1789861067",
+      "territory": "es",
+      "proposed_response": "",
+      "approved": false
+    },
+    {
+      "platform": "android",
+      "id": "9f45a658-f42b-4ed6-ac6e-e53e6fc48e70",
+      "author": "Eduardo Lima carlo",
+      "rating": 5,
+      "title": "",
+      "body": "rexcetoso",
+      "date": "1789856758",
+      "territory": "es",
+      "proposed_response": "",
+      "approved": false
+    }
+  ]
+}

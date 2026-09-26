@@ -1,0 +1,93 @@
+{
+  "date": "2026-09-26",
+  "generated_at": "2026-09-26T15:24:31.951284",
+  "total_reviews": 7,
+  "ios_count": 1,
+  "android_count": 6,
+  "items": [
+    {
+      "platform": "android",
+      "id": "aa501b85-ed82-400c-977d-003e4c09f914",
+      "author": "Virginia Conde",
+      "rating": 3,
+      "title": "",
+      "body": "á0",
+      "date": "1790370258",
+      "territory": "es",
+      "proposed_response": "",
+      "approved": false
+    },
+    {
+      "platform": "ios",
+      "id": "00000192-9a99-fb03-63af-134e00000000",
+      "author": "Ivanaalinax",
+      "rating": 5,
+      "title": "Excelente",
+      "body": "10",
+      "date": "2026-09-16T10:18:41-07:00",
+      "territory": "ARG",
+      "proposed_response": "",
+      "approved": false
+    },
+    {
+      "platform": "android",
+      "id": "371d09bf-e8c3-40c3-8655-196aaea47664",
+      "author": "Gerardo Luis Quiñones torres",
+      "rating": 5,
+      "title": "",
+      "body": "es una muy buena aplicación para invertir y pagar general ingresos muy buena la recomiendo le doy un 5 estrellas",
+      "date": "1790425485",
+      "territory": "es",
+      "proposed_response": "",
+      "approved": false
+    },
+    {
+      "platform": "android",
+      "id": "9f5295e2-3a3d-4131-81b1-5a98667d314a",
+      "author": "Humberto Giraldo",
+      "rating": 5,
+      "title": "",
+      "body": "bueno",
+      "date": "1790407090",
+      "territory": "es",
+      "proposed_response": "",
+      "approved": false
+    },
+    {
+      "platform": "android",
+      "id": "f2926d4e-a36c-49d5-9d16-322bf3411e11",
+      "author": "Carlos Sanchez cueto",
+      "rating": 5,
+      "title": "",
+      "body": "bueno",
+      "date": "1790180169",
+      "territory": "es",
+      "proposed_response": "",
+      "approved": false
+    },
+    {
+      "platform": "android",
+      "id": "0022b88e-2776-4985-96ea-b5762a55c624",
+      "author": "NELSON Elías López Castro",
+      "rating": 5,
+      "title": "",
+      "body": "Nesecito mis wasspp con mi respectivo perfil cada uno ósea en cada número mi WhatsApp",
+      "date": "1789861067",
+      "territory": "es",
+      "proposed_response": "",
+      "approved": false
+    },
+    {
+      "platform": "android",
+      "id": "9f45a658-f42b-4ed6-ac6e-e53e6fc48e70",
+      "author": "Eduardo Lima carlo",
+      "rating": 5,
+      "title": "",
+      "body": "rexcetoso",
+      "date": "1789856758",
+      "territory": "es",
+      "proposed_response": "",
+      "approved": false
+    }
+  ]
+}

@@ -1,0 +1,153 @@
+{
+  "date": "2026-10-10",
+  "generated_at": "2026-10-10T16:38:03.310271",
+  "total_reviews": 12,
+  "ios_count": 1,
+  "android_count": 11,
+  "items": [
+    {
+      "platform": "android",
+      "id": "f80c6778-3266-4eb0-a423-f4715801a4ff",
+      "author": "mirta Caballero",
+      "rating": 1,
+      "title": "",
+      "body": "No. poder retirar mi dinero es una estafa de parte de él anunciantes Fraude total!!!!",
+      "date": "1791519470",
+      "territory": "es",
+      "proposed_response": "",
+      "approved": false
+    },
+    {
+      "platform": "android",
+      "id": "0f877414-d898-433d-abe4-0e62a1134b22",
+      "author": "Antonio Antonio",
+      "rating": 1,
+      "title": "",
+      "body": "Recién la instalé, probando a ver qué onda. Generé la clave semilla, y para verificar manualmente tengo que elegir el orden correcto, pero tiene un error: las palabras cambian entre si permanentemente en cuestión de milisegundos y es IMPOSIBLE validar. Y el código de referencia para registrarme no se si se validó.",
+      "date": "1791322939",
+      "territory": "es",
+      "proposed_response": "",
+      "approved": false
+    },
+    {
+      "platform": "android",
+      "id": "6c65a70e-91d5-4a20-9f38-148a3d0a742c",
+      "author": "Blas Gutierrez A.",
+      "rating": 3,
+      "title": "",
+      "body": "me parece buena la opción, gracias",
+      "date": "1791132749",
+      "territory": "es",
+      "proposed_response": "",
+      "approved": false
+    },
+    {
+      "platform": "ios",
+      "id": "00000192-9a99-fb03-63af-134e00000000",
+      "author": "Ivanaalinax",
+      "rating": 5,
+      "title": "Excelente",
+      "body": "10",
+      "date": "2026-09-16T10:18:41-07:00",
+      "territory": "ARG",
+      "proposed_response": "",
+      "approved": false
+    },
+    {
+      "platform": "android",
+      "id": "b848296d-d731-4bd5-aeb2-93b7261c937e",
+      "author": "Rodrigo Godoy",
+      "rating": 5,
+      "title": "",
+      "body": "Genial",
+      "date": "1791486272",
+      "territory": "es",
+      "proposed_response": "",
+      "approved": false
+    },
+    {
+      "platform": "android",
+      "id": "a4e50b66-ba1a-4641-b11c-28ff38ab93f2",
+      "author": "Celso Acosta",
+      "rating": 5,
+      "title": "",
+      "body": "sii quero el prestamo pero cuanto x ciento quee sea sin reajuste xfa",
+      "date": "1791333638",
+      "territory": "es",
+      "proposed_response": "",
+      "approved": false
+    },
+    {
+      "platform": "android",
+      "id": "e2a122a6-364c-4f41-bec6-d2ae532819be",
+      "author": "Benita Rivera",
+      "rating": 5,
+      "title": "",
+      "body": "Es buenas la historias soy para verla en películas son muy buenas yo la veo si soy depanama",
+      "date": "1791331520",
+      "territory": "es",
+      "proposed_response": "",
+      "approved": false
+    },
+    {
+      "platform": "android",
+      "id": "08afd58b-9159-4e67-a982-b42eb512311e",
+      "author": "Samsung A16",
+      "rating": 5,
+      "title": "",
+      "body": "ralondo",
+      "date": "1791320157",
+      "territory": "es",
+      "proposed_response": "",
+      "approved": false
+    },
+    {
+      "platform": "android",
+      "id": "6fe3f59e-7189-4753-9438-37b237da1275",
+      "author": "Lorena Villarreal E.",
+      "rating": 5,
+      "title": "",
+      "body": "Bueno",
+      "date": "1791159804",
+      "territory": "es",
+      "proposed_response": "",
+      "approved": false
+    },
+    {
+      "platform": "android",
+      "id": "a0c54e9c-e693-4a41-b23e-3bcf09489b66",
+      "author": "Kelly Samuel Vasquez jasquez",
+      "rating": 5,
+      "title": "",
+      "body": "muy buena calidad gratis",
+      "date": "1791157944",
+      "territory": "es",
+      "proposed_response": "",
+      "approved": false
+    },
+    {
+      "platform": "android",
+      "id": "162315cf-975c-41aa-a3b6-44afd37c9b6e",
+      "author": "Frank Rodríguez",
+      "rating": 5,
+      "title": "",
+      "body": "entendí toda las reglas y condiciones y muy interesante todas las aclaraciones",
+      "date": "1791142318",
+      "territory": "es",
+      "proposed_response": "",
+      "approved": false
+    },
+    {
+      "platform": "android",
+      "id": "bf25243f-bc17-4327-99e8-ec2477f8aad0",
+      "author": "Gladis bienvenida Sanchez cordero de melo",
+      "rating": 5,
+      "title": "",
+      "body": "muy buena espero aprender mas para obtener mi pag0",
+      "date": "1791067986",
+      "territory": "es",
+      "proposed_response": "",
+      "approved": false
+    }
+  ]
+}

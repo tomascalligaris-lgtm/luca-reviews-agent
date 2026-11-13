@@ -1,0 +1,141 @@
+{
+  "date": "2026-11-13",
+  "generated_at": "2026-11-13T18:58:09.082703",
+  "total_reviews": 11,
+  "ios_count": 2,
+  "android_count": 9,
+  "items": [
+    {
+      "platform": "ios",
+      "id": "00000192-9a99-fb03-6ecf-b1e900000000",
+      "author": "Es la mejor App de su tipo",
+      "rating": 5,
+      "title": "De 3 que invite solo 1 lo contaron como referido exitoso",
+      "body": "La aplicación es muy buena sirve perfectamente sin fallas, pero los referidos no los cuenta arreglen eso",
+      "date": "2026-11-02T18:05:48-08:00",
+      "territory": "USA",
+      "proposed_response": "",
+      "approved": false
+    },
+    {
+      "platform": "ios",
+      "id": "00000192-9a99-fb03-63af-134e00000000",
+      "author": "Ivanaalinax",
+      "rating": 5,
+      "title": "Excelente",
+      "body": "10",
+      "date": "2026-09-16T10:18:41-07:00",
+      "territory": "ARG",
+      "proposed_response": "",
+      "approved": false
+    },
+    {
+      "platform": "android",
+      "id": "34b96a61-c108-40c7-a05d-6403b8066714",
+      "author": "Pequi Choque",
+      "rating": 5,
+      "title": "",
+      "body": ".uy buena",
+      "date": "1794454800",
+      "territory": "es",
+      "proposed_response": "",
+      "approved": false
+    },
+    {
+      "platform": "android",
+      "id": "51f22f23-61cb-43e1-8a64-ca1fe113f0bd",
+      "author": "Marcos Colman",
+      "rating": 5,
+      "title": "",
+      "body": "muy buena",
+      "date": "1794447236",
+      "territory": "es",
+      "proposed_response": "",
+      "approved": false
+    },
+    {
+      "platform": "android",
+      "id": "e65d5630-22e7-41c2-aab3-ab662f2ced41",
+      "author": "Rodrigo Flores",
+      "rating": 5,
+      "title": "",
+      "body": "ecxelente",
+      "date": "1794399922",
+      "territory": "es",
+      "proposed_response": "",
+      "approved": false
+    },
+    {
+      "platform": "android",
+      "id": "5cc7e14a-88fb-4156-b7d3-beebe0cb22f5",
+      "author": "Altidor Edmondo",
+      "rating": 5,
+      "title": "",
+      "body": "muchas gracias Luca money",
+      "date": "1794244071",
+      "territory": "fr",
+      "proposed_response": "",
+      "approved": false
+    },
+    {
+      "platform": "android",
+      "id": "464fe60a-7d34-49b9-ad5d-eecf832fe009",
+      "author": "Raul Iquite subuyuj",
+      "rating": 5,
+      "title": "",
+      "body": "soy agricultor para ayudar amifamilia quesepodia ser parapodeganar",
+      "date": "1794159555",
+      "territory": "es",
+      "proposed_response": "",
+      "approved": false
+    },
+    {
+      "platform": "android",
+      "id": "7ad228cc-1927-49c1-9abb-308584f24bbe",
+      "author": "Jhordan Andi Quispe choque",
+      "rating": 5,
+      "title": "",
+      "body": "es una aplicación muy interesante ya que está aplicación ayuda a personas que hacen negocios con otros tipos de países se pueden cambiar el intercambio de dinero",
+      "date": "1794081434",
+      "territory": "es",
+      "proposed_response": "",
+      "approved": false
+    },
+    {
+      "platform": "android",
+      "id": "85a690b6-3109-49ec-970f-c53ed926e598",
+      "author": "Alejandro Sejas",
+      "rating": 5,
+      "title": "",
+      "body": "me gusta sus diversas funciones q tiene aparte q te da un respaldo para q no pierdas tu dinero yo la recomiendo bastante",
+      "date": "1794071093",
+      "territory": "es",
+      "proposed_response": "",
+      "approved": false
+    },
+    {
+      "platform": "android",
+      "id": "f600f7ff-2aaa-422e-bc6e-558cb493c33c",
+      "author": "jose maria gonzalez de la cruz",
+      "rating": 5,
+      "title": "",
+      "body": "muy bueno",
+      "date": "1794067365",
+      "territory": "es",
+      "proposed_response": "",
+      "approved": false
+    },
+    {
+      "platform": "android",
+      "id": "c68d4776-c492-4c94-85cf-1fc456026222",
+      "author": "Jesús Fabián",
+      "rating": 5,
+      "title": "",
+      "body": "la mejor",
+      "date": "1794012526",
+      "territory": "es",
+      "proposed_response": "",
+      "approved": false
+    }
+  ]
+}

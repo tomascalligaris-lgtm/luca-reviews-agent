@@ -1,0 +1,153 @@
+{
+  "date": "2026-11-26",
+  "generated_at": "2026-11-26T20:43:27.668662",
+  "total_reviews": 12,
+  "ios_count": 3,
+  "android_count": 9,
+  "items": [
+    {
+      "platform": "ios",
+      "id": "00000192-9a99-fb03-714f-6bbf00000000",
+      "author": "Hec_tor12",
+      "rating": 1,
+      "title": "Muy malo",
+      "body": "No cumplen sus promociones y el soporte técnico es nulo, el bot del chat no soluciona nada y la transferencia a un operador nunca ocurre, los correos de reclamo tampoco son contestados",
+      "date": "2026-11-13T08:10:17-08:00",
+      "territory": "BOL",
+      "proposed_response": "",
+      "approved": false
+    },
+    {
+      "platform": "android",
+      "id": "ed92da9e-6a8c-439a-8bfc-f8551c7292a1",
+      "author": "アンディクーシ",
+      "rating": 1,
+      "title": "",
+      "body": "se puede comprar USDT con moneda local \"QR\", el problema su comisión es de 0.50 centavos de dolar. Es demasiado elevado \"en deposito de cadena es igual\" la comisión debería ser de 0.07 centavos de dolar.",
+      "date": "1795463543",
+      "territory": "es",
+      "proposed_response": "",
+      "approved": false
+    },
+    {
+      "platform": "android",
+      "id": "151afc06-89c0-4cd9-840b-1bd6c97b8765",
+      "author": "Joseph Beltrán",
+      "rating": 4,
+      "title": "",
+      "body": "exelente aplicación tener dólares en USDC genial , buena app , la recomiendo , espero la mejoren con las tranferencias de bancos locales . directo a luca , p2p no está mal espero mejoren el métodos , gracias aportar a la comunidad",
+      "date": "1795578469",
+      "territory": "es",
+      "proposed_response": "",
+      "approved": false
+    },
+    {
+      "platform": "ios",
+      "id": "00000192-9a99-fb03-6ecf-b1e900000000",
+      "author": "Es la mejor App de su tipo",
+      "rating": 5,
+      "title": "De 3 que invite solo 1 lo contaron como referido exitoso",
+      "body": "La aplicación es muy buena sirve perfectamente sin fallas, pero los referidos no los cuenta arreglen eso",
+      "date": "2026-11-02T18:05:48-08:00",
+      "territory": "USA",
+      "proposed_response": "",
+      "approved": false
+    },
+    {
+      "platform": "ios",
+      "id": "00000192-9a99-fb03-63af-134e00000000",
+      "author": "Ivanaalinax",
+      "rating": 5,
+      "title": "Excelente",
+      "body": "10",
+      "date": "2026-09-16T10:18:41-07:00",
+      "territory": "ARG",
+      "proposed_response": "",
+      "approved": false
+    },
+    {
+      "platform": "android",
+      "id": "7ebcfc47-4199-4b3d-bc0f-6ddb68880b72",
+      "author": "Alcira Borges",
+      "rating": 5,
+      "title": "",
+      "body": "me encanta ver, son muy bonitas",
+      "date": "1795716836",
+      "territory": "es",
+      "proposed_response": "",
+      "approved": false
+    },
+    {
+      "platform": "android",
+      "id": "033af56c-5ea3-470c-bfb5-bab6c749dce2",
+      "author": "Yancarla Vaca vaca",
+      "rating": 5,
+      "title": "",
+      "body": "Muy buena",
+      "date": "1795541931",
+      "territory": "es",
+      "proposed_response": "",
+      "approved": false
+    },
+    {
+      "platform": "android",
+      "id": "ba938443-d4dd-47c1-9e33-baa074053ca5",
+      "author": "Brayan Lopez",
+      "rating": 5,
+      "title": "",
+      "body": "muy buena aplicación",
+      "date": "1795463278",
+      "territory": "es",
+      "proposed_response": "",
+      "approved": false
+    },
+    {
+      "platform": "android",
+      "id": "856093a9-2f8b-44b0-8fe8-501da2c19af4",
+      "author": "Cristian Padilla claure",
+      "rating": 5,
+      "title": "",
+      "body": "excelente felicitaciones por su plataforma o aplicación es de gran ayuda",
+      "date": "1795367186",
+      "territory": "es",
+      "proposed_response": "",
+      "approved": false
+    },
+    {
+      "platform": "android",
+      "id": "502bc873-e5c7-4d3e-a538-bd3bde2757a8",
+      "author": "Jorge Pez",
+      "rating": 5,
+      "title": "",
+      "body": "me parece interesante. como acceder a crédito 💳",
+      "date": "1795282399",
+      "territory": "es",
+      "proposed_response": "",
+      "approved": false
+    },
+    {
+      "platform": "android",
+      "id": "73fefeaa-040e-467f-909f-fa113d75bccb",
+      "author": "Erlin Ramírez piuma",
+      "rating": 5,
+      "title": "",
+      "body": "muy bien",
+      "date": "1795230793",
+      "territory": "es",
+      "proposed_response": "",
+      "approved": false
+    },
+    {
+      "platform": "android",
+      "id": "42040f41-7e42-4373-881e-eadfcd557be1",
+      "author": "Daniel",
+      "rating": 5,
+      "title": "",
+      "body": "la verdad muy buena app muy completa y 0 problema muy profesional",
+      "date": "1795166660",
+      "territory": "es",
+      "proposed_response": "",
+      "approved": false
+    }
+  ]
+}
